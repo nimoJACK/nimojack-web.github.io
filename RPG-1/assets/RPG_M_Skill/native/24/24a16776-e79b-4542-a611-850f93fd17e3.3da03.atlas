@@ -1,0 +1,62 @@
+
+master_skill3_alert.png
+size: 482, 56
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+c30
+  rotate: false
+  xy: 2, 2
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+c31
+  rotate: false
+  xy: 62, 2
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+c32
+  rotate: false
+  xy: 122, 2
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+c33
+  rotate: false
+  xy: 182, 2
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+c34
+  rotate: false
+  xy: 242, 2
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+c35
+  rotate: false
+  xy: 302, 2
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+c36
+  rotate: false
+  xy: 362, 2
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+c37
+  rotate: false
+  xy: 422, 2
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1

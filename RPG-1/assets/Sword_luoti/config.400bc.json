@@ -1,0 +1,1 @@
+{"paths":{"0":["sword",0],"1":["sword",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["a7w9HE76lL6rgTC+H+Nt2A","b2GduZzfhO1qJXqDjCHZCS"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Sword_luoti","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"c518d"],"native":[0,"3fdff"]}}

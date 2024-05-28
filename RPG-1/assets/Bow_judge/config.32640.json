@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",1],"1":["bow",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["bbZMhfIHpPmL6efu9pIssr","14EG+44htGoLkYPqpS5WLB"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_judge","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"b2fd5",0,"8a4d0"],"native":[0,"7cf91"]}}

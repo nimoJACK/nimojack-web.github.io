@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",1],"1":["bow",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["b7jtD72NpPfqQD1LBwwCMv","84YQm2lEpFg44MHK74PHSf"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_venom","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"14cb0",0,"8a4d0"],"native":[0,"699dc"]}}

@@ -1,0 +1,41 @@
+
+warrior_skill2.png
+size: 795, 119
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 195, 115
+  orig: 195, 115
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 199, 14
+  size: 147, 103
+  orig: 147, 103
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 348, 14
+  size: 147, 103
+  orig: 147, 103
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 497, 14
+  size: 147, 103
+  orig: 147, 103
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 646, 14
+  size: 147, 103
+  orig: 147, 103
+  offset: 0, 0
+  index: -1

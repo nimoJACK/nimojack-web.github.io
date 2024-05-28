@@ -1,0 +1,41 @@
+
+master_skill1_alert.png
+size: 342, 65
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+b12
+  rotate: false
+  xy: 2, 2
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+b13
+  rotate: false
+  xy: 70, 2
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+b14
+  rotate: false
+  xy: 138, 2
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+b15
+  rotate: false
+  xy: 206, 2
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+b16
+  rotate: false
+  xy: 274, 2
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1

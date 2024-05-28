@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",1],"1":["cape",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["cbOlni+g9MRJPFwpoZZEam","8aP6tXALlIgZx9S2V8vh4M"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_astronaut","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"8e7b0",0,"8a4d0"],"native":[0,"d0cc8"]}}

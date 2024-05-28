@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",1],"1":["cape",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["f9hBP86XVOi5GNDFjE37z0","c4oQbAmslEJKCazQSGAIJH"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_hunterMaleFinal","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"5f7a7",0,"8a4d0"],"native":[0,"ced4f"]}}

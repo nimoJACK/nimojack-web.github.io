@@ -1,0 +1,62 @@
+
+warrior_skill8_buff.png
+size: 1199, 174
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+a1
+  rotate: false
+  xy: 2, 2
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: -1
+a8
+  rotate: false
+  xy: 2, 2
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 173, 2
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 344, 2
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 515, 2
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 686, 2
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 857, 2
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 1028, 2
+  size: 169, 170
+  orig: 169, 170
+  offset: 0, 0
+  index: -1

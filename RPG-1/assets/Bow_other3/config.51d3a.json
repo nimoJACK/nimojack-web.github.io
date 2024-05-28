@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",0],"1":["bow",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["e5absZ5INFGYXhH6ECDwB9","eeDJvILeVClKCjstY0CI8J"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_other3","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"702cf"],"native":[0,"d25f6"]}}

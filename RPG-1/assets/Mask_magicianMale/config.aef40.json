@@ -1,0 +1,1 @@
+{"paths":{"0":["mask",0],"1":["mask",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["665VnZVltOioIxI2fQZqWZ","bdyhoVe5BIb478eP2LvWdI"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Mask_magicianMale","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"e7347"],"native":[0,"cc015"]}}

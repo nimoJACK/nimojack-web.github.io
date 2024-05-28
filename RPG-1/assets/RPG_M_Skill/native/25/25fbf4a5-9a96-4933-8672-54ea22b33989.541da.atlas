@@ -1,0 +1,69 @@
+
+warrior_skill5.png
+size: 1223, 428
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1
+  rotate: false
+  xy: 2, 286
+  size: 405, 140
+  orig: 405, 140
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 144
+  size: 405, 140
+  orig: 405, 140
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 409, 286
+  size: 405, 140
+  orig: 405, 140
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 2
+  size: 405, 140
+  orig: 405, 140
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 409, 144
+  size: 405, 140
+  orig: 405, 140
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 816, 286
+  size: 405, 140
+  orig: 405, 140
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 409, 2
+  size: 405, 140
+  orig: 405, 140
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 816, 144
+  size: 405, 140
+  orig: 405, 140
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 816, 2
+  size: 405, 140
+  orig: 405, 140
+  offset: 0, 0
+  index: -1

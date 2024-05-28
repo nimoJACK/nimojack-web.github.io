@@ -1,0 +1,174 @@
+
+master_skill3.png
+size: 575, 814
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+c30
+  rotate: false
+  xy: 2, 695
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+c31
+  rotate: false
+  xy: 99, 695
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+c32
+  rotate: false
+  xy: 196, 695
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+c33
+  rotate: false
+  xy: 293, 695
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+c34
+  rotate: false
+  xy: 390, 695
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+c35
+  rotate: false
+  xy: 2, 576
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+c36
+  rotate: false
+  xy: 99, 576
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+c37
+  rotate: false
+  xy: 196, 576
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+c38
+  rotate: false
+  xy: 293, 576
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+c39
+  rotate: false
+  xy: 390, 576
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+d30
+  rotate: false
+  xy: 2, 155
+  size: 141, 151
+  orig: 141, 151
+  offset: 0, 0
+  index: -1
+d31
+  rotate: false
+  xy: 145, 155
+  size: 141, 151
+  orig: 141, 151
+  offset: 0, 0
+  index: -1
+d32
+  rotate: false
+  xy: 288, 155
+  size: 141, 151
+  orig: 141, 151
+  offset: 0, 0
+  index: -1
+d33
+  rotate: false
+  xy: 431, 155
+  size: 141, 151
+  orig: 141, 151
+  offset: 0, 0
+  index: -1
+d34
+  rotate: false
+  xy: 2, 2
+  size: 141, 151
+  orig: 141, 151
+  offset: 0, 0
+  index: -1
+d35
+  rotate: false
+  xy: 145, 2
+  size: 141, 151
+  orig: 141, 151
+  offset: 0, 0
+  index: -1
+d36
+  rotate: false
+  xy: 288, 2
+  size: 141, 151
+  orig: 141, 151
+  offset: 0, 0
+  index: -1
+d37
+  rotate: false
+  xy: 431, 2
+  size: 141, 151
+  orig: 141, 151
+  offset: 0, 0
+  index: -1
+e32
+  rotate: false
+  xy: 2, 442
+  size: 189, 132
+  orig: 189, 132
+  offset: 0, 0
+  index: -1
+e33
+  rotate: false
+  xy: 193, 442
+  size: 189, 132
+  orig: 189, 132
+  offset: 0, 0
+  index: -1
+e34
+  rotate: false
+  xy: 384, 442
+  size: 189, 132
+  orig: 189, 132
+  offset: 0, 0
+  index: -1
+e35
+  rotate: false
+  xy: 2, 308
+  size: 189, 132
+  orig: 189, 132
+  offset: 0, 0
+  index: -1
+e36
+  rotate: false
+  xy: 193, 308
+  size: 189, 132
+  orig: 189, 132
+  offset: 0, 0
+  index: -1
+e37
+  rotate: false
+  xy: 384, 308
+  size: 189, 132
+  orig: 189, 132
+  offset: 0, 0
+  index: -1

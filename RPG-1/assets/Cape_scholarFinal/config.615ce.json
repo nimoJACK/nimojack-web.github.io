@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",0],"1":["cape",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["61UDLsjoVMDoZ8pvKjJZGM","e7UpDoxCFAWJdmefXKf8U3"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_scholarFinal","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"5ad0a"],"native":[0,"a6aaf"]}}

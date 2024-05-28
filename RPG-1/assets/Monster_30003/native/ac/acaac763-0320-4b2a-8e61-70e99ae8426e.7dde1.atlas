@@ -1,0 +1,20 @@
+
+30003_bullet.png
+size: 39, 30
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+pd1
+  rotate: false
+  xy: 2, 16
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+pd2
+  rotate: false
+  xy: 2, 2
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1

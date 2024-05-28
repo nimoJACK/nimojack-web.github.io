@@ -1,0 +1,48 @@
+
+warrior_alert2.png
+size: 974, 126
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 160, 122
+  orig: 160, 122
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 164, 2
+  size: 160, 122
+  orig: 160, 122
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 326, 2
+  size: 160, 122
+  orig: 160, 122
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 488, 2
+  size: 160, 122
+  orig: 160, 122
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 650, 2
+  size: 160, 122
+  orig: 160, 122
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 812, 2
+  size: 160, 122
+  orig: 160, 122
+  offset: 0, 0
+  index: -1

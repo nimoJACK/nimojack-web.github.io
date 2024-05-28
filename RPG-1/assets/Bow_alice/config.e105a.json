@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",0],"1":["bow",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["68+OL2vK5Bw4pj4+xT67GC","ccGnOz0ApMdZvZ+EhSvaGZ"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_alice","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"090d6"],"native":[0,"f8550"]}}

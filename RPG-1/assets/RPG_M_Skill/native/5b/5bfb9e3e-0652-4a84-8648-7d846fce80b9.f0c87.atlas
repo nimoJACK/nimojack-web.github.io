@@ -1,0 +1,181 @@
+
+archer_skill7_buff.png
+size: 763, 263
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1
+  rotate: false
+  xy: 2, 176
+  size: 123, 85
+  orig: 123, 85
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 89
+  size: 123, 85
+  orig: 123, 85
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 127, 176
+  size: 123, 85
+  orig: 123, 85
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 2
+  size: 123, 85
+  orig: 123, 85
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 127, 89
+  size: 123, 85
+  orig: 123, 85
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 252, 176
+  size: 123, 85
+  orig: 123, 85
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 127, 2
+  size: 123, 85
+  orig: 123, 85
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 252, 89
+  size: 123, 85
+  orig: 123, 85
+  offset: 0, 0
+  index: -1
+buf01
+  rotate: false
+  xy: 377, 176
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf02
+  rotate: false
+  xy: 252, 2
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf03
+  rotate: false
+  xy: 377, 89
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf04
+  rotate: false
+  xy: 450, 176
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf05
+  rotate: false
+  xy: 325, 2
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf06
+  rotate: false
+  xy: 450, 89
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf07
+  rotate: false
+  xy: 523, 176
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf08
+  rotate: false
+  xy: 398, 2
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf09
+  rotate: false
+  xy: 523, 89
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf10
+  rotate: false
+  xy: 596, 176
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf11
+  rotate: false
+  xy: 471, 2
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf12
+  rotate: false
+  xy: 596, 89
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf13
+  rotate: false
+  xy: 669, 176
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf14
+  rotate: false
+  xy: 544, 2
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf15
+  rotate: false
+  xy: 669, 89
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf16
+  rotate: false
+  xy: 617, 2
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+buf17
+  rotate: false
+  xy: 690, 2
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1

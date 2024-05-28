@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",0],"1":["bow",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["60Y1QddxNKqImviJFakJ3W","e3L1ZEwfZLX4CiR+OGG4Wd"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_flower","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"3e42f"],"native":[0,"d44ac"]}}

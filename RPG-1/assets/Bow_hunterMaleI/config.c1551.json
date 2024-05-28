@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",1],"1":["bow",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["83ZwnL7DdGrpX+E/HVEzeD","4dBrfF1sZG3ovhp3aB1H57"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_hunterMaleI","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"8e811",0,"8a4d0"],"native":[0,"948d8"]}}

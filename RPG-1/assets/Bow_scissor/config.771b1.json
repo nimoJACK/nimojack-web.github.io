@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",0],"1":["bow",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["5dWa7QxutOva8xC+qdqZ4J","f8vGhtXl9CC5iM9iiEV8zH"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_scissor","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"efb71"],"native":[0,"bdf1a"]}}

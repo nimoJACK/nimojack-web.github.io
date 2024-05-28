@@ -1,0 +1,125 @@
+
+warrior_skill12.png
+size: 1239, 518
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+AA01
+  rotate: false
+  xy: 1034, 118
+  size: 23, 193
+  orig: 23, 193
+  offset: 0, 0
+  index: -1
+AA02
+  rotate: false
+  xy: 1059, 118
+  size: 23, 193
+  orig: 23, 193
+  offset: 0, 0
+  index: -1
+AA03
+  rotate: false
+  xy: 1084, 118
+  size: 23, 193
+  orig: 23, 193
+  offset: 0, 0
+  index: -1
+AA04
+  rotate: false
+  xy: 1109, 118
+  size: 23, 193
+  orig: 23, 193
+  offset: 0, 0
+  index: -1
+AA05
+  rotate: false
+  xy: 1134, 118
+  size: 23, 193
+  orig: 23, 193
+  offset: 0, 0
+  index: -1
+AA06
+  rotate: false
+  xy: 1159, 118
+  size: 23, 193
+  orig: 23, 193
+  offset: 0, 0
+  index: -1
+AA07
+  rotate: false
+  xy: 1184, 118
+  size: 23, 193
+  orig: 23, 193
+  offset: 0, 0
+  index: -1
+AA08
+  rotate: false
+  xy: 1209, 118
+  size: 23, 193
+  orig: 23, 193
+  offset: 0, 0
+  index: -1
+BB01
+  rotate: false
+  xy: 2, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BB02
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BB03
+  rotate: false
+  xy: 260, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BB04
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BB05
+  rotate: false
+  xy: 518, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BB06
+  rotate: false
+  xy: 518, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BB07
+  rotate: false
+  xy: 776, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BB08
+  rotate: false
+  xy: 776, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lll
+  rotate: false
+  xy: 1034, 313
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1

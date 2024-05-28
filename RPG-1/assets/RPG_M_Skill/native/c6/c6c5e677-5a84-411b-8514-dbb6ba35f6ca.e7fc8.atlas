@@ -1,0 +1,104 @@
+
+master_skill1.png
+size: 62, 561
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+10
+  rotate: false
+  xy: 2, 118
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 89
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 60
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 31
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 2
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 2, 515
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 2, 469
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 2, 423
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 2, 377
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 2, 331
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 2, 285
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 2, 239
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+a8
+  rotate: false
+  xy: 2, 193
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+a9
+  rotate: false
+  xy: 2, 147
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1

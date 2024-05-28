@@ -1,0 +1,1 @@
+{"paths":{"0":["face1",0],"1":["face1",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["4aa87GJAFHBaDiRHKmBohq","deM5ojFN1GlqeIyh6QDwMt"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Face_luoti","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"b739b"],"native":[0,"f0020"]}}

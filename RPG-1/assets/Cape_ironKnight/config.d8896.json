@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",1],"1":["cape",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["84u7DbOZJOrY3PK/cnH6mh","53Z/W3+t5IOZBSnO+poax1"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_ironKnight","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"a871f",0,"8a4d0"],"native":[0,"74730"]}}

@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",0],"1":["cape",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["65zl9zFVtHC4yZxkvh7hPY","a2HctUdZJFuY0n8yvGb9ti"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_luoti","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"986ea"],"native":[0,"4b1fa"]}}

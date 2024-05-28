@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",1],"1":["cape",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["f2Gd+BGwRPmLdEUlLf6lnN","d3xGwEzdBJsbBFhCDeqp5i"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_hunterFemale","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"60b7b",0,"8a4d0"],"native":[0,"5e291"]}}

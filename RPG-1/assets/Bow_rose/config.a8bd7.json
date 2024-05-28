@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",1],"1":["bow",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["ddykaPrfBNp5Lq0vrFGhO9","bcPmk7t2VDuJtxJ5JysmRh"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_rose","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"f57a8",0,"8a4d0"],"native":[0,"6f215"]}}

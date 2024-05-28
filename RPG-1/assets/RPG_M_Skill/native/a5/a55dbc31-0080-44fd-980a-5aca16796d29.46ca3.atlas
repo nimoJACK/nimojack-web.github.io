@@ -1,0 +1,656 @@
+
+archer_skill6.png
+size: 1845, 662
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 146, 2
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 290, 2
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 520, 240
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 693, 498
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 851, 498
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1009, 498
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1167, 498
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1325, 498
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 1483, 498
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 1641, 498
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 693, 354
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 520, 76
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 837, 354
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 981, 354
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1125, 354
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1269, 354
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1413, 354
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1557, 354
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1701, 354
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+a01
+  rotate: false
+  xy: 2, 404
+  size: 171, 256
+  orig: 171, 256
+  offset: 0, 0
+  index: -1
+a02
+  rotate: false
+  xy: 2, 146
+  size: 171, 256
+  orig: 171, 256
+  offset: 0, 0
+  index: -1
+a02b
+  rotate: false
+  xy: 175, 404
+  size: 171, 256
+  orig: 171, 256
+  offset: 0, 0
+  index: -1
+a03
+  rotate: false
+  xy: 348, 146
+  size: 170, 256
+  orig: 170, 256
+  offset: 0, 0
+  index: -1
+a04
+  rotate: false
+  xy: 521, 404
+  size: 170, 256
+  orig: 170, 256
+  offset: 0, 0
+  index: -1
+a05
+  rotate: false
+  xy: 175, 146
+  size: 171, 256
+  orig: 171, 256
+  offset: 0, 0
+  index: -1
+a06
+  rotate: false
+  xy: 348, 404
+  size: 171, 256
+  orig: 171, 256
+  offset: 0, 0
+  index: -1
+a07
+  rotate: false
+  xy: 434, 16
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+a08
+  rotate: false
+  xy: 1198, 52
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+a09
+  rotate: false
+  xy: 1327, 52
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+c01
+  rotate: false
+  xy: 678, 181
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+c02
+  rotate: false
+  xy: 808, 181
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+c03
+  rotate: false
+  xy: 938, 181
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+c04
+  rotate: false
+  xy: 1068, 181
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+c05
+  rotate: false
+  xy: 678, 9
+  size: 128, 170
+  orig: 128, 170
+  offset: 0, 0
+  index: -1
+c06
+  rotate: false
+  xy: 808, 9
+  size: 128, 170
+  orig: 128, 170
+  offset: 0, 0
+  index: -1
+c07
+  rotate: false
+  xy: 938, 9
+  size: 128, 170
+  orig: 128, 170
+  offset: 0, 0
+  index: -1
+c08
+  rotate: false
+  xy: 1068, 9
+  size: 128, 170
+  orig: 128, 170
+  offset: 0, 0
+  index: -1
+c09
+  rotate: false
+  xy: 1198, 181
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+c10
+  rotate: false
+  xy: 1328, 181
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+c11
+  rotate: false
+  xy: 1458, 181
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+c12
+  rotate: false
+  xy: 1588, 181
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+e00
+  rotate: false
+  xy: 1632, 94
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+e01
+  rotate: false
+  xy: 1456, 94
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+e01b
+  rotate: false
+  xy: 1544, 94
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+e02
+  rotate: false
+  xy: 1544, 7
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+e03
+  rotate: false
+  xy: 1631, 6
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+e04
+  rotate: false
+  xy: 1718, 266
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+e05
+  rotate: false
+  xy: 1719, 178
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+e06
+  rotate: false
+  xy: 1719, 91
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+e07
+  rotate: false
+  xy: 1456, 7
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+e08
+  rotate: false
+  xy: 1718, 4
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+
+archer_skill6_2.png
+size: 1842, 1031
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+备份/1
+  rotate: false
+  xy: 1452, 723
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+备份/10
+  rotate: false
+  xy: 1452, 579
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+备份/11
+  rotate: false
+  xy: 1452, 435
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+备份/12
+  rotate: false
+  xy: 1034, 867
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+备份/13
+  rotate: false
+  xy: 1192, 867
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+备份/14
+  rotate: false
+  xy: 1350, 867
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+备份/15
+  rotate: false
+  xy: 1508, 867
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+备份/16
+  rotate: false
+  xy: 1666, 867
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+备份/17
+  rotate: false
+  xy: 1034, 703
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+备份/18
+  rotate: false
+  xy: 1034, 539
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+备份/19
+  rotate: false
+  xy: 1034, 375
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+备份/2
+  rotate: false
+  xy: 1554, 291
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+备份/20
+  rotate: false
+  xy: 1034, 211
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+备份/3
+  rotate: false
+  xy: 1554, 147
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+备份/4
+  rotate: false
+  xy: 1554, 3
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+备份/5
+  rotate: false
+  xy: 1596, 723
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+备份/6
+  rotate: false
+  xy: 1596, 579
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+备份/7
+  rotate: false
+  xy: 1596, 435
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+备份/8
+  rotate: false
+  xy: 1698, 291
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+备份/9
+  rotate: false
+  xy: 1698, 147
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+备份/a00
+  rotate: false
+  xy: 2, 517
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+备份/a01
+  rotate: false
+  xy: 2, 3
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+备份/a02
+  rotate: false
+  xy: 260, 517
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+备份/a03
+  rotate: false
+  xy: 260, 3
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+备份/a04
+  rotate: false
+  xy: 518, 517
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+备份/a05
+  rotate: false
+  xy: 518, 3
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+备份/a06
+  rotate: false
+  xy: 776, 517
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+备份/a07
+  rotate: false
+  xy: 776, 3
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+备份/c01
+  rotate: false
+  xy: 1034, 38
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+备份/c02
+  rotate: false
+  xy: 1164, 38
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+备份/c03
+  rotate: false
+  xy: 1192, 694
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+备份/c04
+  rotate: false
+  xy: 1192, 521
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+备份/c05
+  rotate: false
+  xy: 1322, 522
+  size: 128, 170
+  orig: 128, 170
+  offset: 0, 0
+  index: -1
+备份/c06
+  rotate: false
+  xy: 1322, 350
+  size: 128, 170
+  orig: 128, 170
+  offset: 0, 0
+  index: -1
+备份/c07
+  rotate: false
+  xy: 1424, 178
+  size: 128, 170
+  orig: 128, 170
+  offset: 0, 0
+  index: -1
+备份/c08
+  rotate: false
+  xy: 1424, 6
+  size: 128, 170
+  orig: 128, 170
+  offset: 0, 0
+  index: -1
+备份/c09
+  rotate: false
+  xy: 1192, 348
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+备份/c10
+  rotate: false
+  xy: 1294, 175
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+备份/c11
+  rotate: false
+  xy: 1294, 2
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+备份/c12
+  rotate: false
+  xy: 1322, 694
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1

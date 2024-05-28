@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",0],"1":["bow",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["7dWKiXgdJFarEc4oykCEqB","c0YAg9fTVFW7qYZcJx4d1/"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_cyber","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"04870"],"native":[0,"0fa8b"]}}

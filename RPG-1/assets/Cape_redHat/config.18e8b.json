@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",0],"1":["cape",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["79LUzml7dOFolBJ/16a1MA","f4jSEwNhtPuIJxo3MGy7Zu"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_redHat","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"4d51d"],"native":[0,"ac285"]}}

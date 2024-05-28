@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",1],"1":["cape",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["e4ijzQfLpEUJRocTK8STZ4","ddUnsjN31BGbf/zc5TZmN9"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_knightFemaleFinal","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"4aca5",0,"8a4d0"],"native":[0,"c3854"]}}

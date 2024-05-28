@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",0],"1":["cape",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["10gek8yclMZ4CUhY0JMuWP","e30sQAjKtITKgchHDT25Vm"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_snowGirl","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"cb938"],"native":[0,"00cf4"]}}

@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",0],"1":["bow",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["40yHJb8YZHF6M5G4RPM2xj","faW6BUeaVM/6c4B+IklP0k"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_ironKnight","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"e4b18"],"native":[0,"9ae69"]}}

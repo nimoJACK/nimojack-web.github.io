@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",0],"1":["cape",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["4fB7Wv5m9FR5N8zMj4aOPV","51v0y83GVDxrTt5VYKXcyU"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_knightChange","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"eb4bf"],"native":[0,"3f059"]}}

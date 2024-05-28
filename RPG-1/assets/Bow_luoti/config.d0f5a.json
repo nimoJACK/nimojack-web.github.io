@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",0],"1":["bow",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["aeEq6FU/dPKqrZ6IcN1NmY","c13TNrYSlDhq45D1kmvkBs"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_luoti","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"4a7f2"],"native":[0,"b2e62"]}}

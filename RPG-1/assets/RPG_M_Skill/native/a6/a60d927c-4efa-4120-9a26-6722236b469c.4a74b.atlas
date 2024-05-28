@@ -1,0 +1,118 @@
+
+archer_skill2.png
+size: 1698, 99
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 108, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 214, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 320, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 426, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 532, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 638, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 744, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 850, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 956, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1062, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1168, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1274, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1380, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1486, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1592, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1

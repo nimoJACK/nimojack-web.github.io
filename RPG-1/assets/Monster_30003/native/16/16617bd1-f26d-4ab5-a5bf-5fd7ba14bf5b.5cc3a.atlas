@@ -1,0 +1,69 @@
+
+30003_bullet_hitFx.png
+size: 290, 35
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+bz1
+  rotate: false
+  xy: 2, 2
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+bz2
+  rotate: false
+  xy: 34, 2
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+bz3
+  rotate: false
+  xy: 66, 2
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+bz4
+  rotate: false
+  xy: 98, 2
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+bz5
+  rotate: false
+  xy: 130, 2
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+bz6
+  rotate: false
+  xy: 162, 2
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+bz7
+  rotate: false
+  xy: 194, 2
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+bz8
+  rotate: false
+  xy: 226, 2
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+bz9
+  rotate: false
+  xy: 258, 2
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1

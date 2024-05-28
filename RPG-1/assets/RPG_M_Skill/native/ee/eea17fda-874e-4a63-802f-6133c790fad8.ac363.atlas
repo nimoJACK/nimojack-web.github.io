@@ -1,0 +1,62 @@
+
+master_skill4_alert.png
+size: 514, 83
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+t33
+  rotate: false
+  xy: 2, 2
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+t34
+  rotate: false
+  xy: 66, 2
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+t35
+  rotate: false
+  xy: 130, 2
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+t36
+  rotate: false
+  xy: 194, 2
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+t37
+  rotate: false
+  xy: 258, 2
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+t38
+  rotate: false
+  xy: 322, 2
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+t39
+  rotate: false
+  xy: 386, 2
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+t40
+  rotate: false
+  xy: 450, 2
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1

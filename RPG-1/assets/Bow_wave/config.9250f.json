@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",1],"1":["bow",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["f7Vh4rBghOiaX6tV+QwtIn","e7Q8egq55KuYQn1u2FOaG0"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_wave","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"60249",0,"8a4d0"],"native":[0,"0b911"]}}

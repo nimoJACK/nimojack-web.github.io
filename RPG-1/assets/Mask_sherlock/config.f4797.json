@@ -1,0 +1,1 @@
+{"paths":{"0":["mask",0],"1":["mask",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["70WTEcZVtFy4hr0r3CW9WB","e0CvdQie5MPopsOoncBDLJ"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Mask_sherlock","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"87b3b"],"native":[0,"cf22c"]}}

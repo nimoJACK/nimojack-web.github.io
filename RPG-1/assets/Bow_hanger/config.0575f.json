@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",1],"1":["bow",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["a5NmFmcHNNhooMI+AiWduK","70mXTKRtxKO4Dik0Aflw/2"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_hanger","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"3a232",0,"8a4d0"],"native":[0,"5bc7d"]}}

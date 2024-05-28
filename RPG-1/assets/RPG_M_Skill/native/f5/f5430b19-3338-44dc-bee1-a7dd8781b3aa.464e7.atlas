@@ -1,0 +1,174 @@
+
+archer_skill5.png
+size: 1612, 754
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+1
+  rotate: false
+  xy: 2, 566
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 378
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 296, 566
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 190
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 296, 378
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 296, 378
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 590, 566
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 2, 2
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 296, 190
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 590, 378
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 884, 566
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 296, 2
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 590, 190
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 884, 378
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1178, 566
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 590, 2
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 884, 190
+  size: 292, 186
+  orig: 292, 186
+  offset: 0, 0
+  index: -1
+boom01
+  rotate: false
+  xy: 1178, 385
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+boom02
+  rotate: false
+  xy: 884, 9
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+boom03
+  rotate: false
+  xy: 1178, 204
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+boom04
+  rotate: false
+  xy: 1395, 385
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+boom05
+  rotate: false
+  xy: 1395, 204
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+boom06
+  rotate: false
+  xy: 1101, 9
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+boom07
+  rotate: false
+  xy: 1318, 23
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1

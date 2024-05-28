@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",0],"1":["bow",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["0eJPnOWtdHYqylvkdIA1T3","fdVpbCKFhJKJLD2K5NWJhN"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_shenzhou","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"04ffb"],"native":[0,"a460a"]}}

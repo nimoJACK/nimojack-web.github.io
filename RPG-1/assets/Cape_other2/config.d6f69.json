@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",1],"1":["cape",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["4aiXRHg4BCgbGcrsLAhqS7","3cUiMgJqpJX7eRmqgEfEvn"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_other2","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"09479",0,"8a4d0"],"native":[0,"be259"]}}

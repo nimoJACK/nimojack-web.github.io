@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",0],"1":["bow",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["ab/uEyZKBHZ6lx1pncvYAj","f3vKFL4VJLHakaUY8jEjHs"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_hawkeye","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"e3570"],"native":[0,"1f6c0"]}}

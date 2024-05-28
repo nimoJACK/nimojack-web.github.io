@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",0],"1":["bow",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["bcf2WlgLhMEqWZDO4ECX7I","c7nvXOFuVCTpHwoIQ7YdZZ"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_love","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"fd996"],"native":[0,"dd568"]}}

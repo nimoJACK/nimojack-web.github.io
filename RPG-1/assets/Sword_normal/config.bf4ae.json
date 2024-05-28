@@ -1,0 +1,1 @@
+{"paths":{"0":["sword",1],"1":["sword",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["c0rgrllyRBLJyWsPSG9fP9","79gT+5D05M24guGo27My4M"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Sword_normal","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"9dc8e",0,"8a4d0"],"native":[0,"25038"]}}

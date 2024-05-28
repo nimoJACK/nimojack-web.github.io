@@ -1,0 +1,1 @@
+{"paths":{"0":["sword",0],"1":["sword",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["07LPAyKWBNjpgINk7XK5ma","e5YP04ziJBKr6KuL7lelsT"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Sword_knightMale0","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"cc51f"],"native":[0,"4697f"]}}

@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",1],"1":["cape",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["86OLkBNQxJK5kluyVp3czR","1eWiD7YLVAXorbIKmPKs/E"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_archaeologist","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"05eab",0,"8a4d0"],"native":[0,"1aa4f"]}}

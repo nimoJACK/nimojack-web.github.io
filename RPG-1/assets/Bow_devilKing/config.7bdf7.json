@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",1],"1":["bow",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["82RIfeWF1L+IHYBDbwZ8NP","48S/Mepv1Ex70wu23JWAcz"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_devilKing","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"7d3af",0,"8a4d0"],"native":[0,"97cc7"]}}

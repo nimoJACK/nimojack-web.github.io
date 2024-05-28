@@ -1,0 +1,265 @@
+
+tyjnbeifen.png
+size: 1859, 1997
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+a
+  rotate: false
+  xy: 1670, 1808
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+dg10
+  rotate: false
+  xy: 2, 1641
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg11
+  rotate: false
+  xy: 419, 1641
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg12
+  rotate: false
+  xy: 836, 1641
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg13
+  rotate: false
+  xy: 1253, 1641
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg14
+  rotate: false
+  xy: 2, 1285
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg15
+  rotate: false
+  xy: 419, 1285
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg16
+  rotate: false
+  xy: 836, 1285
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg17
+  rotate: false
+  xy: 1253, 1285
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg2
+  rotate: false
+  xy: 2, 929
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg3
+  rotate: false
+  xy: 419, 929
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg4
+  rotate: false
+  xy: 836, 929
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg5
+  rotate: false
+  xy: 1253, 929
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg6
+  rotate: false
+  xy: 2, 573
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg7
+  rotate: false
+  xy: 2, 217
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg8
+  rotate: false
+  xy: 419, 573
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+dg9
+  rotate: false
+  xy: 419, 217
+  size: 415, 354
+  orig: 415, 354
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 14
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1670, 1619
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+moon10
+  rotate: false
+  xy: 1670, 1430
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+moon11
+  rotate: false
+  xy: 1670, 1241
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+moon12
+  rotate: false
+  xy: 1670, 1052
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+moon2
+  rotate: false
+  xy: 1670, 863
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+moon3
+  rotate: false
+  xy: 2, 28
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+moon4
+  rotate: false
+  xy: 191, 28
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+moon5
+  rotate: false
+  xy: 380, 28
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+moon6
+  rotate: false
+  xy: 569, 28
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+moon7
+  rotate: false
+  xy: 758, 28
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+moon8
+  rotate: false
+  xy: 1416, 740
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+moon9
+  rotate: false
+  xy: 1527, 242
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+msl2
+  rotate: false
+  xy: 836, 620
+  size: 288, 307
+  orig: 288, 307
+  offset: 0, 0
+  index: -1
+msl3
+  rotate: false
+  xy: 836, 311
+  size: 288, 307
+  orig: 288, 307
+  offset: 0, 0
+  index: -1
+msl4
+  rotate: false
+  xy: 947, 2
+  size: 288, 307
+  orig: 288, 307
+  offset: 0, 0
+  index: -1
+msl5
+  rotate: false
+  xy: 1126, 620
+  size: 288, 307
+  orig: 288, 307
+  offset: 0, 0
+  index: -1
+msl6
+  rotate: false
+  xy: 1126, 311
+  size: 288, 307
+  orig: 288, 307
+  offset: 0, 0
+  index: -1
+msl7
+  rotate: false
+  xy: 1237, 2
+  size: 288, 307
+  orig: 288, 307
+  offset: 0, 0
+  index: -1
+msl8
+  rotate: false
+  xy: 1416, 431
+  size: 288, 307
+  orig: 288, 307
+  offset: 0, 0
+  index: -1

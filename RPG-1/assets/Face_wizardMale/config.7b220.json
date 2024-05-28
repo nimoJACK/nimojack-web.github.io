@@ -1,0 +1,1 @@
+{"paths":{"0":["face1",0],"1":["face1",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["66j0b88Z1MbZK/nKleaOyu","f1WoiOJd5G640VE1ZjxAeg"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Face_wizardMale","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"92de5"],"native":[0,"4ce4a"]}}

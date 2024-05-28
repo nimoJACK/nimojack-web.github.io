@@ -1,0 +1,1 @@
+{"paths":{"0":["bow",0],"1":["bow",1,1]},"types":["cc.Texture2D","cc.SpriteFrame"],"uuids":["95zNKLAlRGw7g1En7U+nZk","aaU3pBKhlElbPZ2focFFCc"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Bow_rabbit","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[0,"8a4d0",1,"a20bf"],"native":[0,"1c7d3"]}}

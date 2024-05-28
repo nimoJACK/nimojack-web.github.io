@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",1],"1":["cape",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["d1wI2rGihA36yNogO9n/W4","aaD8BYTI9Bv6RuJr9X1oER"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_knightMaleFinal","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"a194f",0,"8a4d0"],"native":[0,"74b3a"]}}

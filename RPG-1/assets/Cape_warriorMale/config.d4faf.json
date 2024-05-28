@@ -1,0 +1,1 @@
+{"paths":{"0":["cape",1],"1":["cape",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["19gGWg7MhMEq1KAYDX+ngA","02l4kiFRpHYb16lfdOTxv+"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Cape_warriorMale","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"5a3df",0,"8a4d0"],"native":[0,"5e9e8"]}}

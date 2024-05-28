@@ -1,0 +1,153 @@
+
+warrior_skill6_1.png
+size: 1460, 1562
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+5
+  rotate: false
+  xy: 642, 494
+  size: 297, 286
+  orig: 297, 286
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 941, 494
+  size: 297, 286
+  orig: 297, 286
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 642, 206
+  size: 297, 286
+  orig: 297, 286
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 941, 206
+  size: 297, 286
+  orig: 297, 286
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 2, 1172
+  size: 638, 388
+  orig: 638, 388
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 2, 782
+  size: 638, 388
+  orig: 638, 388
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 2, 392
+  size: 638, 388
+  orig: 638, 388
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 2, 2
+  size: 638, 388
+  orig: 638, 388
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 642, 1172
+  size: 638, 388
+  orig: 638, 388
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 642, 782
+  size: 638, 388
+  orig: 638, 388
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 1240, 432
+  size: 218, 171
+  orig: 218, 171
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1240, 259
+  size: 218, 171
+  orig: 218, 171
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 1240, 86
+  size: 218, 171
+  orig: 218, 171
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 1240, 605
+  size: 170, 175
+  orig: 170, 175
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 642, 29
+  size: 170, 175
+  orig: 170, 175
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 814, 29
+  size: 170, 175
+  orig: 170, 175
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 986, 29
+  size: 170, 175
+  orig: 170, 175
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 1282, 1385
+  size: 170, 175
+  orig: 170, 175
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 1282, 1208
+  size: 170, 175
+  orig: 170, 175
+  offset: 0, 0
+  index: -1
+c7
+  rotate: false
+  xy: 1282, 1031
+  size: 170, 175
+  orig: 170, 175
+  offset: 0, 0
+  index: -1
+c8
+  rotate: false
+  xy: 1282, 854
+  size: 170, 175
+  orig: 170, 175
+  offset: 0, 0
+  index: -1
