@@ -1,0 +1,20 @@
+
+TZ_boss.png
+size: 147,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi
+  rotate: false
+  xy: 79, 11
+  size: 66, 66
+  orig: 72, 77
+  offset: 3, 5
+  index: -1
+quan
+  rotate: false
+  xy: 2, 2
+  size: 75, 75
+  orig: 79, 79
+  offset: 2, 2
+  index: -1

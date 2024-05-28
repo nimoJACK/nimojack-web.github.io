@@ -1,0 +1,62 @@
+
+dou_qi_0.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+douqi_0
+  rotate: false
+  xy: 148, 217
+  size: 138, 292
+  orig: 147, 308
+  offset: 5, 6
+  index: -1
+douqi_1
+  rotate: false
+  xy: 2, 157
+  size: 144, 352
+  orig: 149, 363
+  offset: 2, 3
+  index: -1
+douqi_2
+  rotate: false
+  xy: 288, 220
+  size: 140, 289
+  orig: 147, 321
+  offset: 3, 7
+  index: -1
+douqi_3
+  rotate: false
+  xy: 430, 243
+  size: 140, 266
+  orig: 146, 297
+  offset: 3, 9
+  index: -1
+douqi_4
+  rotate: true
+  xy: 2, 2
+  size: 153, 272
+  orig: 162, 304
+  offset: 5, 10
+  index: -1
+douqi_5
+  rotate: false
+  xy: 572, 244
+  size: 172, 265
+  orig: 179, 282
+  offset: 4, 10
+  index: -1
+douqi_6
+  rotate: true
+  xy: 538, 67
+  size: 174, 264
+  orig: 179, 281
+  offset: 3, 10
+  index: -1
+douqi_7
+  rotate: true
+  xy: 276, 36
+  size: 179, 260
+  orig: 183, 272
+  offset: 3, 4
+  index: -1

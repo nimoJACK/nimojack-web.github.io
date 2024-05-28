@@ -1,0 +1,97 @@
+
+monster3.png
+size: 225,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 71
+  size: 115, 107
+  orig: 130, 151
+  offset: 9, 13
+  index: -1
+Body1
+  rotate: false
+  xy: 119, 127
+  size: 62, 51
+  orig: 130, 151
+  offset: 8, 73
+  index: -1
+Body2
+  rotate: true
+  xy: 93, 15
+  size: 54, 47
+  orig: 130, 151
+  offset: 25, 100
+  index: -1
+Body3
+  rotate: false
+  xy: 142, 32
+  size: 47, 51
+  orig: 130, 151
+  offset: 60, 100
+  index: -1
+Eye1
+  rotate: false
+  xy: 2, 20
+  size: 89, 49
+  orig: 97, 52
+  offset: 4, 1
+  index: -1
+Eye2
+  rotate: false
+  xy: 119, 85
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 191, 32
+  size: 44, 32
+  orig: 55, 60
+  offset: 5, 9
+  index: -1
+L_leg
+  rotate: true
+  xy: 142, 9
+  size: 21, 31
+  orig: 46, 58
+  offset: 11, 14
+  index: -1
+Mouth1
+  rotate: false
+  xy: 119, 73
+  size: 13, 10
+  orig: 70, 44
+  offset: 26, 10
+  index: -1
+Mouth2
+  rotate: false
+  xy: 183, 134
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 191, 78
+  size: 26, 54
+  orig: 53, 72
+  offset: 13, 16
+  index: -1
+R_leg
+  rotate: true
+  xy: 175, 10
+  size: 20, 31
+  orig: 42, 52
+  offset: 11, 12
+  index: -1
+ty
+  rotate: false
+  xy: 2, 2
+  size: 55, 16
+  orig: 78, 68
+  offset: 12, 7
+  index: -1

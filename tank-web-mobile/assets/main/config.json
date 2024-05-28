@@ -1,0 +1,42 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "main",
+    "deps": [],
+    "uuids": [
+        "0796e969-7e41-4b2d-a0c6-35f9ea91578c",
+        "0796e969-7e41-4b2d-a0c6-35f9ea91578c@6c48a",
+        "0796e969-7e41-4b2d-a0c6-35f9ea91578c@f9941",
+        "17038019-286f-4ecf-87e0-096fdf6cd098",
+        "17038019-286f-4ecf-87e0-096fdf6cd098@6c48a",
+        "17038019-286f-4ecf-87e0-096fdf6cd098@f9941",
+        "1e89f1e0-9f89-4f0b-b62d-49c44b6409b4",
+        "264788d8-fdda-4529-a161-4069bdb1972f",
+        "264788d8-fdda-4529-a161-4069bdb1972f@6c48a",
+        "264788d8-fdda-4529-a161-4069bdb1972f@f9941",
+        "83e95b04-1612-4769-8683-b2c205333f56",
+        "83e95b04-1612-4769-8683-b2c205333f56@6c48a",
+        "83e95b04-1612-4769-8683-b2c205333f56@f9941",
+        "ccbb0b7e-038e-40a3-9f50-cd56eabaa142",
+        "ccbb0b7e-038e-40a3-9f50-cd56eabaa142@6c48a",
+        "ccbb0b7e-038e-40a3-9f50-cd56eabaa142@f9941",
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8"
+    ],
+    "paths": {
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8": [
+            "db:/internal/default_renderpipeline/builtin-forward",
+            "cc.RenderPipeline"
+        ]
+    },
+    "scenes": {
+        "db://assets/Game/01_Load/Load.scene": "1e89f1e0-9f89-4f0b-b62d-49c44b6409b4"
+    },
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {}
+}

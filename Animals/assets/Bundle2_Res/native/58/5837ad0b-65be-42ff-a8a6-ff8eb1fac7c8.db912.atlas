@@ -1,0 +1,48 @@
+
+JinBi.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JinBi_01
+  rotate: false
+  xy: 2, 2
+  size: 58, 61
+  orig: 65, 65
+  offset: 3, 2
+  index: -1
+JinBi_02
+  rotate: false
+  xy: 2, 65
+  size: 61, 61
+  orig: 65, 65
+  offset: 2, 2
+  index: -1
+JinBi_03
+  rotate: false
+  xy: 62, 2
+  size: 58, 61
+  orig: 65, 65
+  offset: 4, 2
+  index: -1
+JinBi_04
+  rotate: false
+  xy: 106, 65
+  size: 38, 61
+  orig: 65, 65
+  offset: 13, 2
+  index: -1
+JinBi_05
+  rotate: false
+  xy: 122, 2
+  size: 17, 61
+  orig: 65, 65
+  offset: 24, 2
+  index: -1
+JinBi_06
+  rotate: false
+  xy: 65, 66
+  size: 39, 60
+  orig: 65, 65
+  offset: 13, 3
+  index: -1

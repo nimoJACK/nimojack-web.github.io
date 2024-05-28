@@ -1,0 +1,104 @@
+
+mo_yan.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+demon_Eye1
+  rotate: true
+  xy: 520, 5
+  size: 88, 86
+  orig: 92, 90
+  offset: 2, 2
+  index: -1
+demon_Layer 10
+  rotate: false
+  xy: 608, 2
+  size: 26, 91
+  orig: 32, 100
+  offset: 3, 5
+  index: -1
+demon_Layer-11
+  rotate: false
+  xy: 1038, 101
+  size: 102, 149
+  orig: 110, 150
+  offset: 5, 0
+  index: -1
+demon_body
+  rotate: false
+  xy: 520, 95
+  size: 118, 118
+  orig: 120, 120
+  offset: 1, 1
+  index: -1
+shexian
+  rotate: false
+  xy: 520, 215
+  size: 516, 35
+  orig: 518, 38
+  offset: 1, 2
+  index: -1
+shexian1
+  rotate: false
+  xy: 2, 138
+  size: 516, 112
+  orig: 518, 116
+  offset: 1, 2
+  index: -1
+shexian2
+  rotate: false
+  xy: 2, 25
+  size: 516, 111
+  orig: 518, 116
+  offset: 1, 2
+  index: -1
+tanchu1
+  rotate: false
+  xy: 2, 17
+  size: 66, 6
+  orig: 68, 8
+  offset: 1, 1
+  index: -1
+zha1
+  rotate: true
+  xy: 700, 66
+  size: 147, 56
+  orig: 149, 58
+  offset: 1, 1
+  index: -1
+zha1_1
+  rotate: true
+  xy: 813, 78
+  size: 135, 50
+  orig: 155, 61
+  offset: 15, 0
+  index: -1
+zha2
+  rotate: true
+  xy: 758, 66
+  size: 147, 53
+  orig: 149, 55
+  offset: 1, 1
+  index: -1
+zha2_1
+  rotate: true
+  xy: 865, 28
+  size: 135, 47
+  orig: 155, 61
+  offset: 15, 0
+  index: -1
+zha3
+  rotate: true
+  xy: 640, 60
+  size: 153, 58
+  orig: 155, 60
+  offset: 1, 1
+  index: -1
+zha3_1
+  rotate: false
+  xy: 865, 165
+  size: 139, 48
+  orig: 155, 61
+  offset: 9, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+fx_die_sheet.png
+size: 345,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GuTou
+  rotate: false
+  xy: 148, 4
+  size: 29, 34
+  orig: 36, 36
+  offset: 4, 1
+  index: -1
+Quan
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 299, 46
+  size: 44, 44
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+Tou2
+  rotate: true
+  xy: 250, 2
+  size: 40, 46
+  orig: 50, 50
+  offset: 5, 2
+  index: -1
+Tou3
+  rotate: false
+  xy: 203, 42
+  size: 45, 48
+  orig: 50, 50
+  offset: 3, 1
+  index: -1
+Tou4
+  rotate: true
+  xy: 54, 2
+  size: 36, 44
+  orig: 50, 50
+  offset: 3, 4
+  index: -1
+Tou5
+  rotate: false
+  xy: 54, 40
+  size: 48, 50
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+bianfuzhadan_03
+  rotate: false
+  xy: 203, 2
+  size: 34, 38
+  orig: 64, 64
+  offset: 11, 13
+  index: -1
+bianfuzhadan_05
+  rotate: true
+  xy: 299, 3
+  size: 41, 43
+  orig: 64, 64
+  offset: 8, 11
+  index: -1
+bianfuzhadan_07
+  rotate: false
+  xy: 154, 41
+  size: 47, 49
+  orig: 64, 64
+  offset: 4, 9
+  index: -1
+bianfuzhadan_08
+  rotate: false
+  xy: 104, 40
+  size: 48, 50
+  orig: 64, 64
+  offset: 3, 9
+  index: -1
+bianfuzhadan_10
+  rotate: false
+  xy: 2, 36
+  size: 50, 54
+  orig: 64, 64
+  offset: 2, 8
+  index: -1
+bianfuzhadan_12
+  rotate: false
+  xy: 250, 44
+  size: 47, 46
+  orig: 64, 64
+  offset: 2, 14
+  index: -1
+bianfuzhadan_14
+  rotate: false
+  xy: 100, 8
+  size: 46, 30
+  orig: 64, 64
+  offset: 4, 25
+  index: -1

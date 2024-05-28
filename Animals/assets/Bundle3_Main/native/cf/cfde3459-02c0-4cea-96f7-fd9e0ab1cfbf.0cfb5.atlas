@@ -1,0 +1,83 @@
+
+ao_la_da_zhan.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg14_ (1)
+  rotate: false
+  xy: 815, 2
+  size: 278, 174
+  orig: 280, 176
+  offset: 1, 1
+  index: -1
+dg14_ (10)
+  rotate: true
+  xy: 1267, 724
+  size: 291, 283
+  orig: 293, 285
+  offset: 1, 1
+  index: -1
+dg14_ (11)
+  rotate: true
+  xy: 1095, 28
+  size: 148, 217
+  orig: 150, 219
+  offset: 1, 1
+  index: -1
+dg14_ (2)
+  rotate: true
+  xy: 570, 139
+  size: 346, 243
+  orig: 348, 245
+  offset: 1, 1
+  index: -1
+dg14_ (3)
+  rotate: true
+  xy: 295, 68
+  size: 413, 273
+  orig: 415, 275
+  offset: 1, 1
+  index: -1
+dg14_ (4)
+  rotate: true
+  xy: 969, 512
+  size: 503, 296
+  orig: 505, 298
+  offset: 1, 1
+  index: -1
+dg14_ (5)
+  rotate: true
+  xy: 2, 483
+  size: 532, 317
+  orig: 534, 319
+  offset: 1, 1
+  index: -1
+dg14_ (6)
+  rotate: true
+  xy: 321, 487
+  size: 528, 325
+  orig: 530, 327
+  offset: 1, 1
+  index: -1
+dg14_ (7)
+  rotate: true
+  xy: 648, 492
+  size: 523, 319
+  orig: 525, 321
+  offset: 1, 1
+  index: -1
+dg14_ (8)
+  rotate: false
+  xy: 815, 178
+  size: 505, 312
+  orig: 507, 314
+  offset: 1, 1
+  index: -1
+dg14_ (9)
+  rotate: true
+  xy: 2, 48
+  size: 433, 291
+  orig: 435, 293
+  offset: 1, 1
+  index: -1

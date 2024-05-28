@@ -1,0 +1,41 @@
+
+ZhaoHuanYeMian_skill.png
+size: 377,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12
+  rotate: false
+  xy: 231, 68
+  size: 71, 87
+  orig: 126, 126
+  offset: 28, 23
+  index: -1
+13
+  rotate: false
+  xy: 157, 68
+  size: 72, 87
+  orig: 126, 126
+  offset: 29, 21
+  index: -1
+16
+  rotate: true
+  xy: 304, 81
+  size: 74, 71
+  orig: 126, 126
+  offset: 26, 29
+  index: -1
+deco_magic-circle_lighting
+  rotate: false
+  xy: 2, 157
+  size: 370, 352
+  orig: 372, 546
+  offset: 0, 4
+  index: -1
+fz1
+  rotate: false
+  xy: 2, 2
+  size: 153, 153
+  orig: 256, 256
+  offset: 53, 51
+  index: -1

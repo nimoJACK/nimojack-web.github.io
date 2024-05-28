@@ -1,0 +1,90 @@
+
+hero_4.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 72, 24
+  size: 6, 6
+  orig: 8, 8
+  offset: 1, 1
+  index: -1
+skin/skin_4/images/pkq_
+  rotate: true
+  xy: 121, 52
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+skin/skin_4/images/pkq_0
+  rotate: true
+  xy: 2, 23
+  size: 102, 68
+  orig: 104, 70
+  offset: 1, 1
+  index: -1
+skin/skin_4/images/pkq_10
+  rotate: true
+  xy: 100, 5
+  size: 26, 23
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+skin/skin_4/images/pkq_11
+  rotate: false
+  xy: 80, 24
+  size: 5, 6
+  orig: 7, 8
+  offset: 1, 1
+  index: -1
+skin/skin_4/images/pkq_12
+  rotate: true
+  xy: 38, 4
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+skin/skin_4/images/pkq_13
+  rotate: true
+  xy: 121, 35
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+skin/skin_4/images/pkq_14
+  rotate: true
+  xy: 69, 4
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+skin/skin_4/images/pkq_16
+  rotate: true
+  xy: 2, 2
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+skin/skin_4/images/pkq_4
+  rotate: true
+  xy: 72, 32
+  size: 36, 24
+  orig: 38, 26
+  offset: 1, 1
+  index: -1
+skin/skin_4/images/pkq_6
+  rotate: true
+  xy: 72, 70
+  size: 55, 54
+  orig: 57, 56
+  offset: 1, 1
+  index: -1
+skin/skin_4/images/pkq_7
+  rotate: false
+  xy: 98, 33
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1

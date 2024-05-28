@@ -1,0 +1,76 @@
+
+monster11.png
+size: 235,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 86, 45
+  size: 133, 114
+  orig: 148, 151
+  offset: 10, 13
+  index: -1
+Eye1
+  rotate: true
+  xy: 202, 123
+  size: 55, 31
+  orig: 107, 57
+  offset: 24, 6
+  index: -1
+Eye2
+  rotate: false
+  xy: 88, 3
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 2, 38
+  size: 140, 82
+  orig: 187, 89
+  offset: 15, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 202, 100
+  size: 21, 31
+  orig: 46, 58
+  offset: 11, 14
+  index: -1
+Mouth1
+  rotate: false
+  xy: 202, 63
+  size: 22, 13
+  orig: 70, 44
+  offset: 25, 9
+  index: -1
+Mouth2
+  rotate: true
+  xy: 2, 2
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 48, 3
+  size: 33, 38
+  orig: 86, 132
+  offset: 30, 45
+  index: -1
+R_leg
+  rotate: true
+  xy: 202, 78
+  size: 20, 31
+  orig: 42, 52
+  offset: 11, 12
+  index: -1
+ty
+  rotate: true
+  xy: 202, 6
+  size: 55, 16
+  orig: 78, 68
+  offset: 12, 7
+  index: -1

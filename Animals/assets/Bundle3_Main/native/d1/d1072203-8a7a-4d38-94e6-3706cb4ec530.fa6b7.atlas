@@ -1,0 +1,118 @@
+
+he_dan_shou_li_jian.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dagger01
+  rotate: false
+  xy: 1190, 391
+  size: 183, 189
+  orig: 185, 191
+  offset: 1, 1
+  index: -1
+explolight
+  rotate: true
+  xy: 981, 148
+  size: 206, 182
+  orig: 213, 187
+  offset: 3, 2
+  index: -1
+fire01
+  rotate: false
+  xy: 584, 391
+  size: 247, 308
+  orig: 258, 312
+  offset: 5, 2
+  index: -1
+fire02
+  rotate: true
+  xy: 348, 701
+  size: 308, 297
+  orig: 318, 301
+  offset: 6, 2
+  index: -1
+flame01
+  rotate: false
+  xy: 353, 2
+  size: 355, 244
+  orig: 356, 245
+  offset: 0, 0
+  index: -1
+flame02
+  rotate: true
+  xy: 322, 248
+  size: 362, 260
+  orig: 364, 261
+  offset: 1, 0
+  index: -1
+flame03
+  rotate: false
+  xy: 647, 796
+  size: 353, 213
+  orig: 354, 214
+  offset: 0, 0
+  index: -1
+flame04
+  rotate: false
+  xy: 2, 10
+  size: 349, 222
+  orig: 350, 223
+  offset: 0, 0
+  index: -1
+glowlight
+  rotate: false
+  xy: 981, 356
+  size: 207, 207
+  orig: 215, 215
+  offset: 4, 4
+  index: -1
+particle01
+  rotate: false
+  xy: 2, 234
+  size: 318, 376
+  orig: 324, 409
+  offset: 3, 30
+  index: -1
+particle02
+  rotate: true
+  xy: 2, 612
+  size: 397, 344
+  orig: 410, 351
+  offset: 0, 0
+  index: -1
+ring
+  rotate: true
+  xy: 710, 117
+  size: 272, 269
+  orig: 282, 279
+  offset: 7, 0
+  index: -1
+smoke01a
+  rotate: true
+  xy: 1002, 796
+  size: 213, 228
+  orig: 218, 234
+  offset: 2, 4
+  index: -1
+smoke01b
+  rotate: false
+  xy: 833, 565
+  size: 214, 229
+  orig: 218, 234
+  offset: 2, 3
+  index: -1
+smoke02a
+  rotate: true
+  xy: 1165, 143
+  size: 211, 177
+  orig: 214, 185
+  offset: 2, 5
+  index: -1
+smoke02b
+  rotate: true
+  xy: 1049, 582
+  size: 212, 178
+  orig: 214, 185
+  offset: 2, 5
+  index: -1

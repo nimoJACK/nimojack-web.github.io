@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":750,"runtime":"scripts/Stage.ts","height":1334},"compId":2,"child":[{"type":"Script","props":{"runtime":"scripts/StageUpdate.ts"},"compId":15},{"type":"Image","props":{"visible":false,"var":"TotarialUI","skin":"startMenu/sy_ts_01.png","centerX":0,"bottom":450},"compId":125}],"loadList":["startMenu/sy_ts_01.png"],"loadList3D":[]}

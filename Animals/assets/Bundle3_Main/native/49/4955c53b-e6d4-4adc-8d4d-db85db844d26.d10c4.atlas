@@ -1,0 +1,41 @@
+
+ZhaoHuanYeMian_partner.png
+size: 403,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 332, 73
+  size: 69, 82
+  orig: 106, 106
+  offset: 22, 11
+  index: -1
+28
+  rotate: true
+  xy: 157, 54
+  size: 101, 84
+  orig: 106, 106
+  offset: 4, 9
+  index: -1
+36
+  rotate: true
+  xy: 243, 64
+  size: 91, 87
+  orig: 106, 106
+  offset: 8, 11
+  index: -1
+deco_magic-circle_lighting
+  rotate: false
+  xy: 2, 157
+  size: 370, 352
+  orig: 372, 546
+  offset: 0, 4
+  index: -1
+fz1
+  rotate: false
+  xy: 2, 2
+  size: 153, 153
+  orig: 256, 256
+  offset: 53, 51
+  index: -1

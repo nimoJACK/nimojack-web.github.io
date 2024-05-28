@@ -1,0 +1,104 @@
+
+bao_jian.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gj01
+  rotate: true
+  xy: 497, 37
+  size: 70, 124
+  orig: 72, 127
+  offset: 1, 2
+  index: -1
+gj14_ (10)
+  rotate: false
+  xy: 870, 581
+  size: 192, 434
+  orig: 202, 436
+  offset: 9, 1
+  index: -1
+gj14_ (11)
+  rotate: false
+  xy: 689, 577
+  size: 179, 438
+  orig: 182, 442
+  offset: 2, 1
+  index: -1
+gj14_ (12)
+  rotate: false
+  xy: 1009, 148
+  size: 149, 431
+  orig: 151, 450
+  offset: 1, 1
+  index: -1
+gj14_ (13)
+  rotate: true
+  xy: 204, 2
+  size: 52, 291
+  orig: 55, 296
+  offset: 1, 2
+  index: -1
+gj14_ (2)
+  rotate: false
+  xy: 2, 34
+  size: 200, 477
+  orig: 202, 480
+  offset: 1, 2
+  index: -1
+gj14_ (3)
+  rotate: false
+  xy: 405, 109
+  size: 198, 449
+  orig: 202, 451
+  offset: 2, 1
+  index: -1
+gj14_ (4)
+  rotate: false
+  xy: 487, 568
+  size: 200, 447
+  orig: 202, 451
+  offset: 1, 1
+  index: -1
+gj14_ (5)
+  rotate: false
+  xy: 204, 56
+  size: 199, 455
+  orig: 201, 462
+  offset: 1, 4
+  index: -1
+gj14_ (6)
+  rotate: false
+  xy: 289, 560
+  size: 196, 455
+  orig: 200, 460
+  offset: 3, 1
+  index: -1
+gj14_ (7)
+  rotate: false
+  xy: 605, 124
+  size: 200, 442
+  orig: 202, 444
+  offset: 1, 1
+  index: -1
+gj14_ (8)
+  rotate: false
+  xy: 1064, 587
+  size: 196, 428
+  orig: 202, 432
+  offset: 5, 1
+  index: -1
+gj14_ (9)
+  rotate: false
+  xy: 807, 139
+  size: 200, 436
+  orig: 202, 438
+  offset: 1, 1
+  index: -1
+template
+  rotate: true
+  xy: 2, 513
+  size: 502, 285
+  orig: 504, 287
+  offset: 1, 1
+  index: -1

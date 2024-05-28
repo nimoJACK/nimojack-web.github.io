@@ -1,0 +1,62 @@
+
+partner1-4.png
+size: 188,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1, 36
+  size: 67, 74
+  orig: 100, 106
+  offset: 15, 1
+  index: -1
+Body1
+  rotate: false
+  xy: 76, 42
+  size: 62, 61
+  orig: 86, 94
+  offset: 9, 33
+  index: -1
+Body2
+  rotate: false
+  xy: 139, 36
+  size: 48, 67
+  orig: 100, 106
+  offset: 16, 32
+  index: -1
+L_arm
+  rotate: true
+  xy: 76, 12
+  size: 29, 50
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 1, 15
+  size: 20, 25
+  orig: 32, 41
+  offset: 8, 12
+  index: -1
+R_arm
+  rotate: true
+  xy: 127, 6
+  size: 29, 49
+  orig: 40, 50
+  offset: 7, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 27, 1
+  size: 20, 24
+  orig: 29, 36
+  offset: 5, 6
+  index: -1
+ty
+  rotate: false
+  xy: 27, 22
+  size: 40, 13
+  orig: 55, 48
+  offset: 8, 4
+  index: -1

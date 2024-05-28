@@ -1,0 +1,41 @@
+
+ZhaoHuanYeMian_weapon.png
+size: 374,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armor_19
+  rotate: true
+  xy: 254, 5
+  size: 69, 76
+  orig: 103, 106
+  offset: 18, 9
+  index: -1
+deco_magic-circle_lighting
+  rotate: false
+  xy: 2, 157
+  size: 370, 352
+  orig: 372, 546
+  offset: 0, 4
+  index: -1
+fz1
+  rotate: false
+  xy: 2, 2
+  size: 153, 153
+  orig: 256, 256
+  offset: 53, 51
+  index: -1
+weapon_05
+  rotate: false
+  xy: 157, 59
+  size: 95, 96
+  orig: 131, 136
+  offset: 18, 20
+  index: -1
+weapon_33
+  rotate: false
+  xy: 254, 76
+  size: 75, 79
+  orig: 119, 122
+  offset: 27, 26
+  index: -1

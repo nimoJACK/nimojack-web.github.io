@@ -1,0 +1,27 @@
+
+Jinbi_B.png
+size: 153,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GuTou
+  rotate: false
+  xy: 104, 2
+  size: 47, 49
+  orig: 50, 55
+  offset: 2, 4
+  index: -1
+Quan
+  rotate: false
+  xy: 2, 2
+  size: 50, 49
+  orig: 62, 62
+  offset: 7, 6
+  index: -1
+Tou
+  rotate: false
+  xy: 54, 2
+  size: 48, 49
+  orig: 71, 72
+  offset: 12, 11
+  index: -1

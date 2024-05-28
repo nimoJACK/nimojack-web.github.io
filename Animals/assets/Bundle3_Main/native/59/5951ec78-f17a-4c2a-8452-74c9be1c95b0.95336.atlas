@@ -1,0 +1,97 @@
+
+hero_2.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_6
+  rotate: true
+  xy: 2, 2
+  size: 6, 8
+  orig: 8, 10
+  offset: 1, 1
+  index: -1
+hy__0
+  rotate: true
+  xy: 2, 45
+  size: 81, 73
+  orig: 93, 84
+  offset: 7, 6
+  index: -1
+hy__1
+  rotate: true
+  xy: 29, 8
+  size: 35, 23
+  orig: 37, 25
+  offset: 1, 1
+  index: -1
+hy__11
+  rotate: true
+  xy: 78, 16
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+hy__12
+  rotate: false
+  xy: 78, 3
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+hy__15
+  rotate: true
+  xy: 114, 7
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+hy__16
+  rotate: false
+  xy: 96, 3
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+hy__18
+  rotate: true
+  xy: 139, 7
+  size: 15, 23
+  orig: 16, 23
+  offset: 1, 0
+  index: -1
+hy__19
+  rotate: true
+  xy: 106, 24
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+hy__2
+  rotate: true
+  xy: 121, 72
+  size: 54, 53
+  orig: 56, 55
+  offset: 1, 1
+  index: -1
+hy__21
+  rotate: true
+  xy: 77, 45
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+hy__3
+  rotate: false
+  xy: 54, 9
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+hy__5
+  rotate: false
+  xy: 2, 10
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1

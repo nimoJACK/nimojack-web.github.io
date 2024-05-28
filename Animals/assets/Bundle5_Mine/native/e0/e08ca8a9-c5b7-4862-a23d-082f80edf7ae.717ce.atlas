@@ -1,0 +1,13 @@
+
+xuanzhuan_h.png
+size: 136,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_flare2
+  rotate: false
+  xy: 2, 2
+  size: 132, 132
+  orig: 194, 194
+  offset: 31, 31
+  index: -1

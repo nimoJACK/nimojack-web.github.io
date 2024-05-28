@@ -1,0 +1,27 @@
+
+bao_feng_xue.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cold_cone@2x
+  rotate: true
+  xy: 489, 2
+  size: 228, 334
+  orig: 228, 334
+  offset: 0, 0
+  index: -1
+tx_ice
+  rotate: false
+  xy: 489, 232
+  size: 495, 248
+  orig: 498, 254
+  offset: 0, 1
+  index: -1
+tx_shachen
+  rotate: false
+  xy: 2, 91
+  size: 485, 389
+  orig: 485, 389
+  offset: 0, 0
+  index: -1

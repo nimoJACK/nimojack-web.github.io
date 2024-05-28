@@ -1,0 +1,90 @@
+
+hero1.png
+size: 207,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 103, 111
+  size: 55, 52
+  orig: 78, 68
+  offset: 10, 7
+  index: -1
+Eye1
+  rotate: false
+  xy: 103, 73
+  size: 67, 36
+  orig: 71, 40
+  offset: 2, 2
+  index: -1
+Eye2
+  rotate: true
+  xy: 97, 4
+  size: 62, 36
+  orig: 70, 40
+  offset: 0, 4
+  index: -1
+Face1
+  rotate: false
+  xy: 2, 68
+  size: 99, 95
+  orig: 126, 106
+  offset: 12, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 153, 9
+  size: 20, 32
+  orig: 32, 46
+  offset: 9, 11
+  index: -1
+L_leg
+  rotate: true
+  xy: 184, 59
+  size: 21, 20
+  orig: 46, 58
+  offset: 13, 27
+  index: -1
+Mouth2
+  rotate: false
+  xy: 160, 119
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 172, 82
+  size: 23, 35
+  orig: 32, 46
+  offset: 5, 9
+  index: -1
+R_leg
+  rotate: false
+  xy: 184, 36
+  size: 21, 21
+  orig: 42, 52
+  offset: 12, 20
+  index: -1
+piaodai
+  rotate: false
+  xy: 2, 2
+  size: 93, 64
+  orig: 126, 106
+  offset: 17, 21
+  index: -1
+ty
+  rotate: true
+  xy: 135, 16
+  size: 55, 16
+  orig: 78, 68
+  offset: 12, 7
+  index: -1
+wei
+  rotate: true
+  xy: 153, 31
+  size: 40, 29
+  orig: 126, 106
+  offset: 44, 34
+  index: -1

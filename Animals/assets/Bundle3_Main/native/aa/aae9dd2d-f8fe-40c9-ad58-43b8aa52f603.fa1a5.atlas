@@ -1,0 +1,62 @@
+
+partner3-2.png
+size: 155,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ty
+  rotate: false
+  xy: 24, 14
+  size: 40, 13
+  orig: 55, 48
+  offset: 8, 4
+  index: -1
+zu30
+  rotate: true
+  xy: 1, 1
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+zu31
+  rotate: false
+  xy: 119, 39
+  size: 31, 35
+  orig: 32, 37
+  offset: 1, 0
+  index: -1
+zu32
+  rotate: true
+  xy: 119, 9
+  size: 29, 35
+  orig: 32, 39
+  offset: 1, 0
+  index: -1
+zu33
+  rotate: false
+  xy: 1, 28
+  size: 117, 107
+  orig: 132, 120
+  offset: 15, 5
+  index: -1
+zu34
+  rotate: false
+  xy: 119, 75
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+zu35
+  rotate: false
+  xy: 88, 9
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+zu36
+  rotate: false
+  xy: 65, 9
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1

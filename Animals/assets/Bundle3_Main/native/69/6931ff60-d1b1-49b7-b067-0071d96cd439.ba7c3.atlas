@@ -1,0 +1,97 @@
+
+hero_3.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 92, 60
+  size: 6, 6
+  orig: 8, 8
+  offset: 1, 1
+  index: -1
+skin/skin_3/images/hy_0
+  rotate: false
+  xy: 2, 56
+  size: 88, 70
+  orig: 90, 72
+  offset: 1, 1
+  index: -1
+skin/skin_3/images/hy_1
+  rotate: false
+  xy: 91, 6
+  size: 34, 20
+  orig: 36, 22
+  offset: 1, 1
+  index: -1
+skin/skin_3/images/hy_10
+  rotate: false
+  xy: 56, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+skin/skin_3/images/hy_11
+  rotate: false
+  xy: 92, 98
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+skin/skin_3/images/hy_13
+  rotate: true
+  xy: 110, 79
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+skin/skin_3/images/hy_15
+  rotate: false
+  xy: 92, 68
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+skin/skin_3/images/hy_17
+  rotate: true
+  xy: 56, 31
+  size: 23, 33
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+skin/skin_3/images/hy_2
+  rotate: false
+  xy: 100, 61
+  size: 7, 5
+  orig: 9, 7
+  offset: 1, 1
+  index: -1
+skin/skin_3/images/hy_3
+  rotate: false
+  xy: 2, 3
+  size: 52, 51
+  orig: 54, 53
+  offset: 1, 1
+  index: -1
+skin/skin_3/images/hy_4
+  rotate: true
+  xy: 56, 8
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+skin/skin_3/images/hy_7
+  rotate: true
+  xy: 91, 28
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+skin/skin_3/images/hy_8
+  rotate: true
+  xy: 110, 61
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1

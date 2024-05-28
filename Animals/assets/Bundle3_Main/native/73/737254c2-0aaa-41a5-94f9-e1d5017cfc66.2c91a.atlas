@@ -1,0 +1,62 @@
+
+DongXiao_ZhuangPan.png
+size: 506,626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 395
+  size: 245, 229
+  orig: 245, 229
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 4
+  size: 178, 208
+  orig: 178, 208
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 184
+  size: 179, 209
+  orig: 179, 209
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 381, 2
+  size: 123, 236
+  orig: 123, 236
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 359, 240
+  size: 143, 153
+  orig: 143, 153
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 212, 4
+  size: 183, 167
+  orig: 183, 167
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 249, 395
+  size: 245, 229
+  orig: 245, 229
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 183, 189
+  size: 174, 204
+  orig: 174, 204
+  offset: 0, 0
+  index: -1

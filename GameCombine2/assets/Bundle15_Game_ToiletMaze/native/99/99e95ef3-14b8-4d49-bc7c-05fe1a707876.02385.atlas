@@ -1,0 +1,153 @@
+
+Boy.png
+size: 476,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Idle_Chan_L
+  rotate: false
+  xy: 156, 31
+  size: 93, 111
+  orig: 93, 111
+  offset: 0, 0
+  index: -1
+Idle_Chan_R
+  rotate: false
+  xy: 156, 31
+  size: 93, 111
+  orig: 93, 111
+  offset: 0, 0
+  index: -1
+Idle_Dau
+  rotate: false
+  xy: 2, 144
+  size: 221, 188
+  orig: 221, 188
+  offset: 0, 0
+  index: -1
+Idle_Eye
+  rotate: false
+  xy: 251, 7
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Idle_Mouth
+  rotate: false
+  xy: 2, 2
+  size: 54, 27
+  orig: 55, 27
+  offset: 1, 0
+  index: -1
+Idle_Quan_L
+  rotate: false
+  xy: 379, 119
+  size: 95, 109
+  orig: 95, 109
+  offset: 0, 0
+  index: -1
+Idle_Quan_R
+  rotate: false
+  xy: 379, 119
+  size: 95, 109
+  orig: 95, 109
+  offset: 0, 0
+  index: -1
+Idle_Tay_L
+  rotate: true
+  xy: 251, 51
+  size: 95, 126
+  orig: 95, 126
+  offset: 0, 0
+  index: -1
+Run_Tay_L
+  rotate: true
+  xy: 251, 51
+  size: 95, 126
+  orig: 95, 126
+  offset: 0, 0
+  index: -1
+Idle_Tay_R
+  rotate: true
+  xy: 2, 31
+  size: 111, 152
+  orig: 111, 152
+  offset: 0, 0
+  index: -1
+Run_Tay_R
+  rotate: true
+  xy: 2, 31
+  size: 111, 152
+  orig: 111, 152
+  offset: 0, 0
+  index: -1
+Idle_Than
+  rotate: false
+  xy: 226, 370
+  size: 152, 155
+  orig: 152, 155
+  offset: 0, 0
+  index: -1
+Run_Than
+  rotate: false
+  xy: 226, 370
+  size: 152, 155
+  orig: 152, 155
+  offset: 0, 0
+  index: -1
+Run_Chan_L
+  rotate: false
+  xy: 226, 263
+  size: 155, 105
+  orig: 156, 107
+  offset: 1, 2
+  index: -1
+Run_Chan_R
+  rotate: false
+  xy: 225, 148
+  size: 146, 113
+  orig: 147, 113
+  offset: 0, 0
+  index: -1
+Run_Dau
+  rotate: false
+  xy: 2, 334
+  size: 222, 191
+  orig: 222, 191
+  offset: 0, 0
+  index: -1
+Run_Eye
+  rotate: false
+  xy: 379, 69
+  size: 58, 48
+  orig: 59, 48
+  offset: 1, 0
+  index: -1
+Run_Mouth
+  rotate: false
+  xy: 454, 304
+  size: 17, 25
+  orig: 19, 27
+  offset: 1, 1
+  index: -1
+Run_Quan
+  rotate: true
+  xy: 383, 230
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+Run_Quan_L
+  rotate: false
+  xy: 380, 430
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+Run_Quan_R
+  rotate: true
+  xy: 383, 331
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1

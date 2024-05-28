@@ -1,0 +1,27 @@
+
+zhanli.png
+size: 99,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhanli1
+  rotate: false
+  xy: 52, 3
+  size: 45, 21
+  orig: 63, 62
+  offset: 10, 10
+  index: -1
+zhanli2
+  rotate: true
+  xy: 2, 2
+  size: 50, 48
+  orig: 63, 62
+  offset: 7, 7
+  index: -1
+zhanli3
+  rotate: true
+  xy: 52, 26
+  size: 26, 37
+  orig: 63, 62
+  offset: 19, 13
+  index: -1

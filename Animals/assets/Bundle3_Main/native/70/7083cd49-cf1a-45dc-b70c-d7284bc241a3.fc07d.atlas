@@ -1,0 +1,34 @@
+
+Tree_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GuTou
+  rotate: false
+  xy: 2, 2
+  size: 48, 46
+  orig: 63, 69
+  offset: 7, 12
+  index: -1
+Quan
+  rotate: false
+  xy: 52, 6
+  size: 52, 42
+  orig: 78, 78
+  offset: 12, 15
+  index: -1
+Tou
+  rotate: true
+  xy: 106, 9
+  size: 39, 52
+  orig: 89, 90
+  offset: 25, 21
+  index: -1
+shu
+  rotate: false
+  xy: 2, 50
+  size: 506, 415
+  orig: 506, 416
+  offset: 0, 1
+  index: -1

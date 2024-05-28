@@ -1,0 +1,41 @@
+
+partner5-3.png
+size: 157,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 47, 8
+  size: 28, 31
+  orig: 159, 139
+  offset: 88, 59
+  index: -1
+Body1
+  rotate: false
+  xy: 86, 15
+  size: 70, 103
+  orig: 159, 139
+  offset: 29, 12
+  index: -1
+Body2
+  rotate: true
+  xy: 1, 2
+  size: 37, 45
+  orig: 159, 139
+  offset: 9, 18
+  index: -1
+hard
+  rotate: true
+  xy: 1, 40
+  size: 78, 84
+  orig: 209, 184
+  offset: 62, 97
+  index: -1
+ty
+  rotate: false
+  xy: 76, 1
+  size: 40, 13
+  orig: 55, 48
+  offset: 8, 4
+  index: -1

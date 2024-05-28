@@ -1,0 +1,125 @@
+
+GYJN_effects.png
+size: 891,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hua
+  rotate: false
+  xy: 648, 11
+  size: 49, 50
+  orig: 50, 50
+  offset: 1, 0
+  index: -1
+daofeng1
+  rotate: false
+  xy: 226, 123
+  size: 236, 143
+  orig: 236, 143
+  offset: 0, 0
+  index: -1
+daofeng2
+  rotate: false
+  xy: 464, 128
+  size: 236, 138
+  orig: 236, 143
+  offset: 0, 4
+  index: -1
+daofeng3
+  rotate: true
+  xy: 702, 30
+  size: 236, 137
+  orig: 236, 143
+  offset: 0, 6
+  index: -1
+fang
+  rotate: false
+  xy: 597, 63
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 44
+  size: 222, 222
+  orig: 252, 252
+  offset: 15, 15
+  index: -1
+jingji
+  rotate: true
+  xy: 226, 4
+  size: 54, 351
+  orig: 54, 351
+  offset: 0, 0
+  index: -1
+jingjikuai1
+  rotate: false
+  xy: 413, 80
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+jingjikuai2
+  rotate: false
+  xy: 386, 99
+  size: 25, 22
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+jingjikuai3
+  rotate: false
+  xy: 413, 100
+  size: 21, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: false
+  xy: 323, 65
+  size: 61, 56
+  orig: 69, 56
+  offset: 4, 0
+  index: -1
+qi1-1
+  rotate: false
+  xy: 579, 2
+  size: 67, 56
+  orig: 69, 56
+  offset: 1, 0
+  index: -1
+qi2
+  rotate: false
+  xy: 226, 61
+  size: 95, 60
+  orig: 95, 66
+  offset: 0, 3
+  index: -1
+qi3
+  rotate: false
+  xy: 464, 60
+  size: 131, 66
+  orig: 133, 72
+  offset: 1, 5
+  index: -1
+qi_l1
+  rotate: true
+  xy: 662, 79
+  size: 47, 26
+  orig: 61, 42
+  offset: 5, 13
+  index: -1
+qi_l2
+  rotate: true
+  xy: 841, 65
+  size: 82, 45
+  orig: 86, 55
+  offset: 2, 7
+  index: -1
+qi_l3
+  rotate: true
+  xy: 841, 149
+  size: 117, 48
+  orig: 124, 60
+  offset: 3, 8
+  index: -1

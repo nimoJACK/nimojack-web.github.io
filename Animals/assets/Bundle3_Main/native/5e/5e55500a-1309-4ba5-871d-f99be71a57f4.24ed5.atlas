@@ -1,0 +1,69 @@
+
+mu_tong_zha_dan.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+13
+  rotate: false
+  xy: 855, 29
+  size: 74, 90
+  orig: 126, 126
+  offset: 26, 18
+  index: -1
+effect_a15_01
+  rotate: true
+  xy: 761, 17
+  size: 102, 92
+  orig: 111, 98
+  offset: 5, 3
+  index: -1
+effect_a15_02
+  rotate: true
+  xy: 663, 12
+  size: 107, 96
+  orig: 117, 101
+  offset: 5, 1
+  index: -1
+effect_a15_03
+  rotate: true
+  xy: 559, 7
+  size: 112, 102
+  orig: 121, 104
+  offset: 4, 1
+  index: -1
+effect_a15_04
+  rotate: true
+  xy: 449, 6
+  size: 113, 108
+  orig: 125, 113
+  offset: 6, 2
+  index: -1
+effect_a15_05
+  rotate: true
+  xy: 2, 2
+  size: 117, 112
+  orig: 123, 115
+  offset: 3, 2
+  index: -1
+effect_a15_06
+  rotate: false
+  xy: 116, 3
+  size: 111, 116
+  orig: 116, 119
+  offset: 2, 2
+  index: -1
+effect_a15_07
+  rotate: true
+  xy: 229, 7
+  size: 112, 110
+  orig: 123, 119
+  offset: 5, 8
+  index: -1
+effect_a15_08
+  rotate: true
+  xy: 341, 3
+  size: 116, 106
+  orig: 123, 113
+  offset: 3, 6
+  index: -1

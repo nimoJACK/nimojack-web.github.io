@@ -1,0 +1,139 @@
+
+JinbiBoss.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1
+  rotate: false
+  xy: 2, 125
+  size: 122, 102
+  orig: 125, 107
+  offset: 1, 2
+  index: -1
+B2
+  rotate: false
+  xy: 126, 154
+  size: 117, 73
+  orig: 123, 78
+  offset: 3, 3
+  index: -1
+Body
+  rotate: true
+  xy: 49, 87
+  size: 36, 45
+  orig: 38, 47
+  offset: 1, 1
+  index: -1
+Eye2
+  rotate: true
+  xy: 26, 48
+  size: 31, 18
+  orig: 35, 20
+  offset: 0, 2
+  index: -1
+L1
+  rotate: true
+  xy: 91, 43
+  size: 25, 26
+  orig: 27, 28
+  offset: 1, 1
+  index: -1
+L2
+  rotate: true
+  xy: 201, 72
+  size: 80, 41
+  orig: 82, 43
+  offset: 1, 1
+  index: -1
+L3
+  rotate: true
+  xy: 28, 2
+  size: 21, 22
+  orig: 23, 24
+  offset: 1, 1
+  index: -1
+L4
+  rotate: false
+  xy: 2, 3
+  size: 24, 21
+  orig: 27, 23
+  offset: 1, 1
+  index: -1
+R1
+  rotate: true
+  xy: 2, 81
+  size: 42, 45
+  orig: 44, 47
+  offset: 1, 1
+  index: -1
+R2
+  rotate: false
+  xy: 170, 67
+  size: 29, 27
+  orig: 32, 29
+  offset: 2, 1
+  index: -1
+R3
+  rotate: true
+  xy: 121, 48
+  size: 22, 35
+  orig: 24, 37
+  offset: 1, 1
+  index: -1
+R4
+  rotate: false
+  xy: 46, 25
+  size: 25, 24
+  orig: 27, 26
+  offset: 1, 1
+  index: -1
+hard
+  rotate: false
+  xy: 126, 96
+  size: 73, 56
+  orig: 75, 77
+  offset: 1, 1
+  index: -1
+hard1
+  rotate: false
+  xy: 49, 51
+  size: 40, 34
+  orig: 75, 77
+  offset: 20, 42
+  index: -1
+ia_2500000047_01
+  rotate: false
+  xy: 26, 34
+  size: 15, 12
+  orig: 64, 26
+  offset: 1, 0
+  index: -1
+ia_2500000047_03
+  rotate: false
+  xy: 121, 72
+  size: 47, 22
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+ia_2500000047_05
+  rotate: true
+  xy: 96, 70
+  size: 53, 23
+  orig: 64, 26
+  offset: 6, 1
+  index: -1
+ia_2500000047_07
+  rotate: true
+  xy: 2, 26
+  size: 53, 22
+  orig: 64, 26
+  offset: 11, 1
+  index: -1
+ia_2500000047_09
+  rotate: true
+  xy: 73, 22
+  size: 27, 15
+  orig: 64, 26
+  offset: 27, 2
+  index: -1

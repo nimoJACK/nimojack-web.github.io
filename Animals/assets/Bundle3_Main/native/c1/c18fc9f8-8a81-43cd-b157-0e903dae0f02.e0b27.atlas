@@ -1,0 +1,62 @@
+
+partner4-6.png
+size: 182,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qugan
+  rotate: true
+  xy: 86, 35
+  size: 100, 71
+  orig: 109, 90
+  offset: 9, 7
+  index: -1
+tou
+  rotate: false
+  xy: 1, 54
+  size: 84, 81
+  orig: 97, 90
+  offset: 2, 5
+  index: -1
+ty
+  rotate: true
+  xy: 158, 48
+  size: 40, 13
+  orig: 55, 48
+  offset: 8, 4
+  index: -1
+weiba
+  rotate: false
+  xy: 1, 1
+  size: 54, 52
+  orig: 63, 60
+  offset: 5, 2
+  index: -1
+youhoutui
+  rotate: true
+  xy: 83, 4
+  size: 30, 53
+  orig: 35, 56
+  offset: 3, 1
+  index: -1
+youqiantui
+  rotate: false
+  xy: 158, 89
+  size: 23, 46
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+zuohoutui
+  rotate: false
+  xy: 56, 2
+  size: 26, 51
+  orig: 34, 51
+  offset: 5, 0
+  index: -1
+zuoqiantui
+  rotate: true
+  xy: 137, 13
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1

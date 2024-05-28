@@ -1,0 +1,111 @@
+
+zhadan.png
+size: 185,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 60
+  size: 50, 77
+  orig: 86, 91
+  offset: 13, 10
+  index: -1
+Body1
+  rotate: false
+  xy: 95, 33
+  size: 42, 46
+  orig: 74, 80
+  offset: 8, 22
+  index: -1
+Body2
+  rotate: false
+  xy: 54, 86
+  size: 43, 51
+  orig: 74, 80
+  offset: 15, 13
+  index: -1
+Body3
+  rotate: false
+  xy: 2, 2
+  size: 63, 56
+  orig: 74, 80
+  offset: 5, 12
+  index: -1
+L_arm
+  rotate: false
+  xy: 95, 9
+  size: 25, 22
+  orig: 28, 41
+  offset: 3, 9
+  index: -1
+L_leg
+  rotate: false
+  xy: 167, 63
+  size: 16, 23
+  orig: 28, 35
+  offset: 6, 9
+  index: -1
+MZ
+  rotate: true
+  xy: 139, 34
+  size: 45, 26
+  orig: 118, 106
+  offset: 37, 37
+  index: -1
+R_arm
+  rotate: false
+  xy: 54, 60
+  size: 22, 24
+  orig: 34, 43
+  offset: 5, 15
+  index: -1
+R_leg
+  rotate: false
+  xy: 122, 8
+  size: 17, 23
+  orig: 25, 31
+  offset: 4, 4
+  index: -1
+ia_2500000047_01
+  rotate: false
+  xy: 165, 88
+  size: 18, 14
+  orig: 77, 31
+  offset: 1, 0
+  index: -1
+ia_2500000047_03
+  rotate: true
+  xy: 67, 2
+  size: 56, 26
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+ia_2500000047_05
+  rotate: false
+  xy: 99, 109
+  size: 64, 28
+  orig: 77, 31
+  offset: 7, 1
+  index: -1
+ia_2500000047_07
+  rotate: false
+  xy: 99, 81
+  size: 64, 26
+  orig: 77, 31
+  offset: 13, 1
+  index: -1
+ia_2500000047_09
+  rotate: true
+  xy: 165, 104
+  size: 33, 18
+  orig: 77, 31
+  offset: 32, 3
+  index: -1
+icon_9
+  rotate: false
+  xy: 167, 38
+  size: 16, 23
+  orig: 20, 29
+  offset: 2, 3
+  index: -1

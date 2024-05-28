@@ -1,0 +1,139 @@
+
+di_yu_lie_feng.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gj11_ (1)
+  rotate: false
+  xy: 1043, 23
+  size: 63, 19
+  orig: 65, 21
+  offset: 1, 1
+  index: -1
+gj11_ (10)
+  rotate: true
+  xy: 703, 20
+  size: 213, 98
+  orig: 215, 100
+  offset: 1, 1
+  index: -1
+gj11_ (11)
+  rotate: true
+  xy: 582, 12
+  size: 213, 119
+  orig: 215, 121
+  offset: 1, 1
+  index: -1
+gj11_ (12)
+  rotate: true
+  xy: 452, 2
+  size: 220, 128
+  orig: 222, 130
+  offset: 1, 1
+  index: -1
+gj11_ (13)
+  rotate: true
+  xy: 844, 251
+  size: 259, 144
+  orig: 261, 146
+  offset: 1, 1
+  index: -1
+gj11_ (14)
+  rotate: true
+  xy: 691, 235
+  size: 275, 151
+  orig: 277, 153
+  offset: 1, 1
+  index: -1
+gj11_ (15)
+  rotate: true
+  xy: 541, 227
+  size: 283, 148
+  orig: 285, 150
+  offset: 1, 1
+  index: -1
+gj11_ (16)
+  rotate: true
+  xy: 371, 224
+  size: 286, 168
+  orig: 288, 170
+  offset: 1, 1
+  index: -1
+gj11_ (17)
+  rotate: true
+  xy: 2, 210
+  size: 300, 178
+  orig: 302, 180
+  offset: 1, 1
+  index: -1
+gj11_ (18)
+  rotate: true
+  xy: 182, 211
+  size: 299, 187
+  orig: 301, 189
+  offset: 1, 1
+  index: -1
+gj11_ (19)
+  rotate: true
+  xy: 990, 309
+  size: 201, 86
+  orig: 203, 88
+  offset: 1, 1
+  index: -1
+gj11_ (2)
+  rotate: false
+  xy: 906, 3
+  size: 135, 39
+  orig: 137, 41
+  offset: 1, 1
+  index: -1
+gj11_ (3)
+  rotate: true
+  xy: 989, 44
+  size: 205, 79
+  orig: 207, 81
+  offset: 1, 1
+  index: -1
+gj11_ (4)
+  rotate: true
+  xy: 906, 44
+  size: 205, 81
+  orig: 207, 83
+  offset: 1, 1
+  index: -1
+gj11_ (5)
+  rotate: true
+  xy: 368, 4
+  size: 205, 82
+  orig: 207, 84
+  offset: 1, 1
+  index: -1
+gj11_ (6)
+  rotate: true
+  xy: 246, 4
+  size: 205, 120
+  orig: 207, 122
+  offset: 1, 1
+  index: -1
+gj11_ (7)
+  rotate: true
+  xy: 2, 2
+  size: 206, 120
+  orig: 208, 122
+  offset: 1, 1
+  index: -1
+gj11_ (8)
+  rotate: true
+  xy: 124, 2
+  size: 206, 120
+  orig: 208, 122
+  offset: 1, 1
+  index: -1
+gj11_ (9)
+  rotate: true
+  xy: 803, 22
+  size: 211, 101
+  orig: 213, 103
+  offset: 1, 1
+  index: -1

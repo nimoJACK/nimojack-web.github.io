@@ -1,0 +1,153 @@
+
+xiao_fei_xia.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 115, 98
+  size: 71, 61
+  orig: 116, 116
+  offset: 20, 27
+  index: -1
+Body1
+  rotate: true
+  xy: 161, 175
+  size: 70, 51
+  orig: 116, 116
+  offset: 26, 33
+  index: -1
+Head
+  rotate: true
+  xy: 72, 18
+  size: 75, 104
+  orig: 164, 164
+  offset: 41, 45
+  index: -1
+L_wing
+  rotate: true
+  xy: 178, 108
+  size: 65, 40
+  orig: 68, 56
+  offset: 3, 5
+  index: -1
+R_Wing
+  rotate: true
+  xy: 115, 171
+  size: 74, 44
+  orig: 80, 66
+  offset: 3, 9
+  index: -1
+TuiGuangShiPin-TGSP_Zha_00
+  rotate: false
+  xy: 1034, 9
+  size: 270, 270
+  orig: 274, 273
+  offset: 2, 1
+  index: -1
+TuiGuangShiPin-TGSP_Zha_01
+  rotate: false
+  xy: 1713, 23
+  size: 321, 313
+  orig: 341, 336
+  offset: 10, 11
+  index: -1
+TuiGuangShiPin-TGSP_Zha_02
+  rotate: true
+  xy: 2, 629
+  size: 387, 381
+  orig: 391, 385
+  offset: 2, 1
+  index: -1
+TuiGuangShiPin-TGSP_Zha_03
+  rotate: false
+  xy: 1034, 281
+  size: 360, 365
+  orig: 404, 403
+  offset: 22, 22
+  index: -1
+TuiGuangShiPin-TGSP_Zha_04
+  rotate: false
+  xy: 1396, 2
+  size: 315, 334
+  orig: 318, 338
+  offset: 2, 2
+  index: -1
+TuiGuangShiPin-TGSP_Zha_05
+  rotate: true
+  xy: 1420, 338
+  size: 338, 354
+  orig: 342, 356
+  offset: 2, 1
+  index: -1
+TuiGuangShiPin-TGSP_Zha_06
+  rotate: true
+  xy: 1420, 678
+  size: 338, 357
+  orig: 342, 359
+  offset: 2, 1
+  index: -1
+TuiGuangShiPin-TGSP_Zha_07
+  rotate: false
+  xy: 1075, 653
+  size: 343, 363
+  orig: 348, 365
+  offset: 4, 1
+  index: -1
+TuiGuangShiPin-TGSP_Zha_08
+  rotate: false
+  xy: 729, 648
+  size: 344, 368
+  orig: 350, 371
+  offset: 3, 1
+  index: -1
+TuiGuangShiPin-TGSP_Zha_09
+  rotate: false
+  xy: 688, 264
+  size: 344, 373
+  orig: 350, 375
+  offset: 3, 1
+  index: -1
+TuiGuangShiPin-TGSP_Zha_10
+  rotate: false
+  xy: 385, 639
+  size: 342, 377
+  orig: 346, 379
+  offset: 2, 1
+  index: -1
+TuiGuangShiPin-TGSP_Zha_11
+  rotate: false
+  xy: 2, 247
+  size: 344, 380
+  orig: 346, 382
+  offset: 1, 1
+  index: -1
+TuiGuangShiPin-TGSP_Zha_12
+  rotate: false
+  xy: 348, 248
+  size: 338, 379
+  orig: 341, 383
+  offset: 2, 2
+  index: -1
+mouth
+  rotate: true
+  xy: 214, 212
+  size: 33, 25
+  orig: 164, 164
+  offset: 52, 65
+  index: -1
+ty
+  rotate: true
+  xy: 2, 15
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+yunquanhou4
+  rotate: true
+  xy: 2, 95
+  size: 150, 111
+  orig: 156, 156
+  offset: 2, 23
+  index: -1

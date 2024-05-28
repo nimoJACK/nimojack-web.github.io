@@ -1,0 +1,83 @@
+
+monster5.png
+size: 194,193
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 2
+  size: 82, 91
+  orig: 130, 151
+  offset: 19, 12
+  index: -1
+Body3
+  rotate: false
+  xy: 2, 86
+  size: 84, 105
+  orig: 130, 151
+  offset: 19, 24
+  index: -1
+Eye1
+  rotate: true
+  xy: 157, 79
+  size: 50, 35
+  orig: 97, 52
+  offset: 23, 8
+  index: -1
+Eye2
+  rotate: true
+  xy: 152, 7
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 95, 131
+  size: 60, 88
+  orig: 80, 94
+  offset: 11, 3
+  index: -1
+L_leg
+  rotate: false
+  xy: 95, 6
+  size: 16, 25
+  orig: 46, 58
+  offset: 13, 14
+  index: -1
+Mouth1
+  rotate: true
+  xy: 131, 7
+  size: 24, 15
+  orig: 70, 44
+  offset: 21, 9
+  index: -1
+Mouth2
+  rotate: true
+  xy: 95, 33
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 88, 87
+  size: 42, 67
+  orig: 53, 72
+  offset: 3, 3
+  index: -1
+R_leg
+  rotate: false
+  xy: 113, 6
+  size: 16, 25
+  orig: 42, 52
+  offset: 13, 12
+  index: -1
+ty
+  rotate: false
+  xy: 95, 69
+  size: 55, 16
+  orig: 78, 68
+  offset: 12, 7
+  index: -1

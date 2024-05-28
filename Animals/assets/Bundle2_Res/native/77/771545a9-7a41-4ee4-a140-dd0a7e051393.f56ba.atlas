@@ -1,0 +1,146 @@
+
+fx_levelup.png
+size: 589,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_levelup_01
+  rotate: false
+  xy: 2, 324
+  size: 122, 181
+  orig: 140, 302
+  offset: 9, 21
+  index: -1
+fx_levelup_03
+  rotate: false
+  xy: 2, 158
+  size: 119, 164
+  orig: 140, 302
+  offset: 11, 44
+  index: -1
+fx_levelup_05
+  rotate: false
+  xy: 126, 353
+  size: 115, 152
+  orig: 140, 302
+  offset: 13, 67
+  index: -1
+fx_levelup_07
+  rotate: false
+  xy: 2, 7
+  size: 114, 149
+  orig: 140, 302
+  offset: 13, 78
+  index: -1
+fx_levelup_09
+  rotate: false
+  xy: 243, 358
+  size: 101, 147
+  orig: 140, 302
+  offset: 20, 90
+  index: -1
+fx_levelup_11
+  rotate: false
+  xy: 293, 20
+  size: 94, 133
+  orig: 140, 302
+  offset: 23, 93
+  index: -1
+fx_levelup_13
+  rotate: false
+  xy: 389, 18
+  size: 85, 135
+  orig: 140, 302
+  offset: 32, 97
+  index: -1
+fx_levelup_15
+  rotate: false
+  xy: 206, 11
+  size: 85, 142
+  orig: 140, 302
+  offset: 32, 99
+  index: -1
+fx_levelup_17
+  rotate: false
+  xy: 502, 359
+  size: 85, 146
+  orig: 140, 302
+  offset: 32, 102
+  index: -1
+fx_levelup_19
+  rotate: true
+  xy: 346, 331
+  size: 86, 150
+  orig: 140, 302
+  offset: 31, 105
+  index: -1
+fx_levelup_21
+  rotate: true
+  xy: 346, 419
+  size: 86, 154
+  orig: 140, 302
+  offset: 31, 109
+  index: -1
+fx_levelup_23
+  rotate: false
+  xy: 118, 7
+  size: 86, 149
+  orig: 140, 302
+  offset: 31, 112
+  index: -1
+fx_levelup_25
+  rotate: false
+  xy: 123, 174
+  size: 86, 148
+  orig: 140, 302
+  offset: 31, 115
+  index: -1
+fx_levelup_27
+  rotate: true
+  xy: 299, 155
+  size: 86, 145
+  orig: 140, 302
+  offset: 31, 120
+  index: -1
+fx_levelup_29
+  rotate: false
+  xy: 211, 204
+  size: 86, 147
+  orig: 140, 302
+  offset: 31, 122
+  index: -1
+fx_levelup_31
+  rotate: true
+  xy: 299, 243
+  size: 86, 147
+  orig: 140, 302
+  offset: 31, 127
+  index: -1
+fx_levelup_33
+  rotate: true
+  xy: 448, 246
+  size: 83, 139
+  orig: 140, 302
+  offset: 31, 140
+  index: -1
+fx_levelup_35
+  rotate: false
+  xy: 476, 102
+  size: 71, 142
+  orig: 140, 302
+  offset: 30, 144
+  index: -1
+guangyun
+  rotate: false
+  xy: 476, 2
+  size: 98, 98
+  orig: 128, 128
+  offset: 15, 15
+  index: -1
+yuan
+  rotate: true
+  xy: 549, 182
+  size: 62, 31
+  orig: 64, 64
+  offset: 1, 16
+  index: -1

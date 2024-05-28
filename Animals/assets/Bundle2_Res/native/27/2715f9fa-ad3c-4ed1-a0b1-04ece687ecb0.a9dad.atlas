@@ -1,0 +1,20 @@
+
+UI_effect.png
+size: 586,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang1
+  rotate: false
+  xy: 456, 82
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+magic_line
+  rotate: false
+  xy: 2, 2
+  size: 452, 208
+  orig: 512, 256
+  offset: 28, 24
+  index: -1

@@ -1,0 +1,156 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "03_Sound",
+    "deps": [],
+    "uuids": [
+        "033e24e02",
+        "054ffc7b-04ef-442b-a92c-a311edaafd8f",
+        "0de76bc2-c149-4511-b6f1-04b5224eeae2",
+        "1500f682-d63f-4641-923e-191353ef5157",
+        "1ba7b0e2-51e0-4eb1-9d9f-8962b1692056",
+        "314b010e-0eb9-4366-86dc-2adfd1ec1b96",
+        "3979310c-e77d-4a09-baf2-2de1e0322768",
+        "3dd6c100-8639-438d-8918-bd41a79a6a36",
+        "550726bf-4ab7-45f6-86dc-c0dfcf9b394d",
+        "83f65852-0660-40ea-924b-2e008d9c4fff",
+        "8d6468fa-d9df-4894-a5ec-08eae4b5533d",
+        "9107ab25-2b42-41a0-81a5-3c90a8ff0d72",
+        "91e32355-ce6c-4599-82d5-f236b4427ba8",
+        "93a1f260-33b1-4680-8681-902431b85438",
+        "97aec3c6-f610-4355-b320-4a37c9d86ff3",
+        "97e66920-6dd2-4c8c-9a9e-298db18489ab",
+        "9ef8bfbf-9dc3-4cd3-8723-9346b07bb81d",
+        "b2051427-e84c-40d3-94b8-5a639fea2b6f",
+        "b76db5c3-36e3-4085-9298-28c97ef7e6ba",
+        "baa42ddf-1e36-4463-a97e-f421bc9333f8",
+        "c25f97a1-1703-4083-9ef0-c963047adb51",
+        "c2d3585f-1a41-420a-b4d0-3232c7e3f26b",
+        "cf5427de-f072-40da-ad8d-1c31f813a9f1",
+        "df23b679-cc57-4e2b-b215-7d8a290c111a",
+        "e7975f58-bf60-4ec8-851f-10daa8e224c2",
+        "ea0a7042-2dcd-4a5b-93f3-a2fa1d1ebed1",
+        "feb12431-f5d8-410d-b12c-2cd55be407ef"
+    ],
+    "paths": {
+        "97aec3c6-f610-4355-b320-4a37c9d86ff3": [
+            "Sound",
+            "cc.Prefab"
+        ],
+        "314b010e-0eb9-4366-86dc-2adfd1ec1b96": [
+            "Sounds/BattlegroundBGM",
+            "cc.AudioClip"
+        ],
+        "3979310c-e77d-4a09-baf2-2de1e0322768": [
+            "Sounds/Beep",
+            "cc.AudioClip"
+        ],
+        "ea0a7042-2dcd-4a5b-93f3-a2fa1d1ebed1": [
+            "Sounds/FireLoaded",
+            "cc.AudioClip"
+        ],
+        "550726bf-4ab7-45f6-86dc-c0dfcf9b394d": [
+            "Sounds/GameFinish",
+            "cc.AudioClip"
+        ],
+        "9107ab25-2b42-41a0-81a5-3c90a8ff0d72": [
+            "Sounds/KillFeedback",
+            "cc.AudioClip"
+        ],
+        "9ef8bfbf-9dc3-4cd3-8723-9346b07bb81d": [
+            "Sounds/MenuBGM",
+            "cc.AudioClip"
+        ],
+        "b2051427-e84c-40d3-94b8-5a639fea2b6f": [
+            "Sounds/PlayerGetHited",
+            "cc.AudioClip"
+        ],
+        "baa42ddf-1e36-4463-a97e-f421bc9333f8": [
+            "Sounds/SelectBtn",
+            "cc.AudioClip"
+        ],
+        "b76db5c3-36e3-4085-9298-28c97ef7e6ba": [
+            "Sounds/Tank1Shot",
+            "cc.AudioClip"
+        ],
+        "cf5427de-f072-40da-ad8d-1c31f813a9f1": [
+            "Sounds/Tank2Shot",
+            "cc.AudioClip"
+        ],
+        "feb12431-f5d8-410d-b12c-2cd55be407ef": [
+            "Sounds/Tank3Shot",
+            "cc.AudioClip"
+        ],
+        "8d6468fa-d9df-4894-a5ec-08eae4b5533d": [
+            "Sounds/Tank4Shot",
+            "cc.AudioClip"
+        ],
+        "0de76bc2-c149-4511-b6f1-04b5224eeae2": [
+            "Sounds/Tank5Shot",
+            "cc.AudioClip"
+        ],
+        "97e66920-6dd2-4c8c-9a9e-298db18489ab": [
+            "Sounds/TankDestory",
+            "cc.AudioClip"
+        ],
+        "c25f97a1-1703-4083-9ef0-c963047adb51": [
+            "Sounds/TankIdle",
+            "cc.AudioClip"
+        ],
+        "1ba7b0e2-51e0-4eb1-9d9f-8962b1692056": [
+            "Sounds/TankMove",
+            "cc.AudioClip"
+        ],
+        "c2d3585f-1a41-420a-b4d0-3232c7e3f26b": [
+            "Sounds/V_Damage1",
+            "cc.AudioClip"
+        ],
+        "e7975f58-bf60-4ec8-851f-10daa8e224c2": [
+            "Sounds/V_Damage2",
+            "cc.AudioClip"
+        ],
+        "054ffc7b-04ef-442b-a92c-a311edaafd8f": [
+            "Sounds/V_Damage3",
+            "cc.AudioClip"
+        ],
+        "91e32355-ce6c-4599-82d5-f236b4427ba8": [
+            "Sounds/V_Kill1",
+            "cc.AudioClip"
+        ],
+        "df23b679-cc57-4e2b-b215-7d8a290c111a": [
+            "Sounds/V_Kill2",
+            "cc.AudioClip"
+        ],
+        "1500f682-d63f-4641-923e-191353ef5157": [
+            "Sounds/V_PlayerDie1",
+            "cc.AudioClip"
+        ],
+        "83f65852-0660-40ea-924b-2e008d9c4fff": [
+            "Sounds/V_PlayerDie2",
+            "cc.AudioClip"
+        ],
+        "93a1f260-33b1-4680-8681-902431b85438": [
+            "Sounds/V_Ricochet1",
+            "cc.AudioClip"
+        ],
+        "3dd6c100-8639-438d-8918-bd41a79a6a36": [
+            "Sounds/V_Ricochet2",
+            "cc.AudioClip"
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "033e24e02": [
+            "1ba7b0e2-51e0-4eb1-9d9f-8962b1692056",
+            "97aec3c6-f610-4355-b320-4a37c9d86ff3",
+            "c25f97a1-1703-4083-9ef0-c963047adb51"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {}
+}
